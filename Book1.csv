@@ -1,0 +1,1001 @@
+﻿Gender,Age,Education,Occupation,State,Relationship_Status,Obligation_Rating,Obligation_Category,NEP,Vacation_Behaviour,Rest_and_relax,Luxury_be spoilt,Do_sports,excitement_a_challenge,Not_exceed_planned_budget,Realise_creativity,Fun_and_entertainment,Good_company,Health_and_beauty,Free_and_easy_going,Entertainment_facilities,Not_care_about_prices,Life_style_of_the_local_people,Intense_Experience_of_Nature,Cosiness_or_Familiar_Atmosphere,Maintain_Unspoilt_Surroundings,Everything_Organised,Unspoilt_Nature_or_Natural_Landscape,Cultural_Offers,Change_of_Surroundings,Income_Doller_k,Expenditure_Doller_k
+Female,25,6,Clerical or service worker,VIC,single,4.800,Q4,3.200,2.067,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,15,39
+Female,31,8,professional,WA,married,3.300,Q1,3.400,2.000,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,15,81
+Male,21,3,,NSW,single,3.400,Q2,3.067,1.233,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,yes,no,16,6
+Female,18,2,unemployed,NSW,single,2.633,Q1,3.400,2.167,yes,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,16,77
+Male,61,3,retired,WA,married,3.400,Q2,3.733,1.724,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,17,40
+Female,63,7,retired,QLD,married,4.400,Q4,4.267,3.300,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,17,76
+Male,58,2,retired,Tas,separated or divorced,3.433,Q2,3.267,3.667,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,yes,18,6
+Male,41,8,manager or administrator,VIC,living with a partner,4.267,Q4,4.267,3.235,yes,yes,yes,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,yes,no,yes,yes,yes,18,94
+Female,36,8,manager or administrator,NSW,separated or divorced,3.700,Q2,2.933,2.741,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,yes,no,no,yes,19,3
+Female,56,2,retired,NSW,married,4.167,Q3,3.600,2.750,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,19,72
+Male,30,8,professional,VIC,living with a partner,4.133,Q3,3.600,2.933,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,19,14
+Male,40,6,manager or administrator,NSW,living with a partner,4.333,Q4,3.933,3.172,yes,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,no,no,yes,19,99
+Female,75,4,retired,SA,widowed,4.067,Q3,4.067,3.467,yes,yes,no,no,yes,no,no,yes,no,yes,yes,no,yes,yes,yes,yes,yes,yes,no,no,20,15
+Female,50,7,unemployed,NSW,separated or divorced,4.667,Q4,4.200,3.714,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,20,77
+Male,62,3,sales,WA,married,4.133,Q3,3.933,3.074,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,20,13
+Male,33,3,professional,WA,separated or divorced,3.633,Q2,4.133,2.000,yes,no,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,20,79
+Female,55,1,sales,VIC,married,3.300,Q1,4.133,3.500,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,no,no,no,21,35
+Male,51,8,professional,NSW,single,3.933,Q3,4.200,3.462,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,21,66
+Male,69,7,professional,VIC,married,4.067,Q3,3.667,2.593,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,23,29
+Male,23,6,unemployed,QLD,single,3.867,Q3,3.133,3.733,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,23,98
+Male,42,6,tradesperson,NSW,married,3.633,Q2,3.600,1.967,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,24,35
+Female,35,7,manager or administrator,VIC,living with a partner,3.800,Q2,4.667,2.967,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,yes,yes,yes,no,yes,no,yes,24,73
+Male,33,7,manager or administrator,VIC,single,4.600,Q4,4.133,4.000,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,25,5
+Female,37,1,professional,VIC,living with a partner,4.500,Q4,3.400,2.833,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,25,73
+Male,57,6,professional,SA,married,4.433,Q4,4.267,2.654,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,28,14
+Male,45,6,manager or administrator,NSW,married,3.067,Q1,2.933,2.300,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,28,82
+Female,26,7,professional,VIC,living with a partner,4.367,Q4,3.400,3.440,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,yes,no,no,no,28,32
+Male,42,7,manager or administrator,VIC,married,3.333,Q1,4.200,1.800,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,28,61
+Male,27,7,professional,VIC,single,3.667,Q2,3.600,2.278,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,29,31
+Male,43,8,professional,WA,married,3.767,Q2,3.467,3.143,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,29,87
+Male,41,7,manager or administrator,QLD,married,3.700,Q2,3.067,2.533,yes,yes,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,no,yes,no,yes,30,4
+Female,37,7,manager or administrator,VIC,married,4.033,Q3,4.267,2.933,yes,no,no,no,no,no,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes,30,73
+Male,38,7,manager or administrator,NSW,married,2.933,Q1,3.200,2.367,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,no,yes,yes,33,4
+Female,39,8,professional,NSW,single,3.600,Q2,3.667,3.367,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,33,92
+Male,22,3,Clerical or service worker,ACT,single,4.633,Q4,4.400,3.867,yes,no,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,33,14
+Male,48,8,small business owner,QLD,married,3.300,Q1,2.933,2.100,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,33,81
+Male,56,8,manager or administrator,NSW,married,3.167,Q1,3.133,2.233,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,yes,34,17
+Male,70,8,professional,NSW,living with a partner,4.000,Q3,3.133,2.875,yes,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,34,73
+Male,25,4,manager or administrator,NSW,single,2.267,Q1,3.067,2.379,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,37,26
+Male,58,4,small business owner,NSW,married,3.233,Q1,2.867,3.000,yes,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes,37,75
+Female,27,8,,NSW,living with a partner,3.933,Q3,3.533,2.353,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,yes,38,35
+Female,25,6,professional,NSW,living with a partner,3.767,Q2,4.200,3.714,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,yes,yes,38,92
+Male,38,3,manager or administrator,QLD,living with a partner,3.733,Q2,3.933,2.250,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,39,36
+Female,37,7,manager or administrator,SA,living with a partner,3.400,Q2,3.600,1.767,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,39,61
+Male,18,7,,QLD,single,3.967,Q3,3.733,3.158,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes,39,28
+Male,35,7,professional,NSW,living with a partner,3.833,Q3,3.600,2.773,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,39,65
+Female,36,7,home-duties,NSW,married,3.867,Q3,4.533,3.571,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes,40,55
+Female,34,4,Clerical or service worker,SA,married,3.200,Q1,3.200,2.316,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,40,47
+Female,45,7,professional,NSW,married,3.433,Q2,3.467,2.500,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,40,42
+Male,69,2,manager or administrator,NSW,separated or divorced,3.367,Q1,4.333,3.074,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,40,42
+Male,28,6,manager or administrator,NSW,living with a partner,3.633,Q2,2.867,3.200,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,42,52
+Male,28,2,manager or administrator,NSW,living with a partner,3.133,Q1,3.000,2.652,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,42,60
+Female,32,3,manager or administrator,QLD,single,3.700,Q2,3.667,3.579,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes,43,54
+Male,46,6,manager or administrator,NT,living with a partner,4.433,Q4,4.000,3.828,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,no,no,yes,43,60
+Male,20,7,sales,VIC,single,3.833,Q3,3.667,2.483,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,43,45
+Female,56,8,professional,QLD,married,4.200,Q3,4.200,3.615,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,43,41
+Male,57,8,professional,VIC,separated or divorced,3.133,Q1,2.800,4.444,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,44,50
+Male,64,6,retired,NSW,separated or divorced,4.533,Q4,4.133,3.733,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,yes,44,46
+Female,23,7,sales,NSW,living with a partner,3.833,Q3,3.867,2.633,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,yes,46,51
+Female,62,7,Clerical or service worker,SA,living with a partner,3.800,Q2,3.133,2.800,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,46,46
+Male,54,8,professional,QLD,married,3.533,Q2,3.133,3.160,yes,no,yes,yes,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,46,56
+Male,68,4,retired,VIC,living with a partner,3.467,Q2,3.933,3.034,yes,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,yes,46,55
+Female,55,2,home-duties,NSW,married,3.833,Q3,4.600,2.586,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,47,52
+Male,62,7,professional,VIC,married,3.833,Q3,4.467,3.286,yes,yes,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,yes,47,59
+Female,51,7,Clerical or service worker,ACT,living with a partner,1.733,Q1,2.667,3.000,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,48,51
+Female,60,2,home-duties,SA,living with a partner,4.333,Q4,3.600,4.118,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,yes,no,yes,48,59
+Female,30,7,professional,WA,married,3.567,Q2,3.867,1.867,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,yes,no,no,48,50
+Female,62,1,home-duties,VIC,married,4.100,Q3,4.000,3.714,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,48,48
+Male,48,1,small business owner,NSW,married,3.500,Q2,3.267,3.045,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,no,no,yes,48,59
+Male,54,1,transport worker,NSW,married,3.767,Q2,3.933,2.567,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,48,47
+Female,34,2,small business owner,NSW,married,3.333,Q1,2.867,2.926,yes,yes,no,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,yes,no,no,no,49,55
+Female,29,7,professional,NSW,married,4.333,Q4,3.867,2.393,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,no,yes,49,42
+Male,66,,,QLD,married,3.867,Q3,3.800,2.625,no,yes,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,50,49
+Female,58,4,retired,NSW,married,4.567,Q4,3.800,3.067,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,50,56
+Male,36,3,professional,WA,married,3.433,Q2,3.600,3.320,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,54,47
+Male,28,6,labourer,VIC,single,3.000,Q1,3.400,3.800,yes,yes,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes,no,yes,no,yes,yes,yes,54,54
+Male,55,6,professional,NSW,separated or divorced,3.800,Q2,3.533,1.552,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,yes,no,yes,no,no,yes,no,yes,54,53
+Female,36,3,Clerical or service worker,VIC,living with a partner,4.467,Q4,3.733,2.846,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,54,48
+Male,33,4,manager or administrator,WA,single,3.333,Q1,3.400,3.364,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,54,52
+Male,35,8,manager or administrator,VIC,single,4.067,Q3,3.933,3.467,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,yes,no,no,no,54,42
+Male,18,6,,NSW,single,4.000,Q3,2.800,2.632,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,54,51
+Male,65,6,retired,VIC,married,4.200,Q3,3.667,2.654,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,54,55
+Male,25,6,labourer,NSW,married,4.000,Q3,3.533,2.929,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,no,yes,yes,yes,yes,yes,yes,yes,54,41
+Female,31,3,small business owner,QLD,married,4.567,Q4,3.800,3.478,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,54,44
+Female,37,2,sales,QLD,married,4.200,Q3,3.267,2.300,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,54,57
+Male,33,6,professional,QLD,married,4.133,Q3,3.800,2.733,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,54,46
+Male,59,,,WA,married,3.800,Q2,4.133,2.967,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,57,58
+Female,64,4,transport worker,VIC,widowed,4.500,Q4,3.200,3.083,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes,57,55
+Female,35,6,home-duties,WA,married,3.267,Q1,2.667,2.138,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,58,60
+Male,37,2,labourer,QLD,married,3.967,Q3,3.400,3.214,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,yes,58,46
+Male,76,,professional,Tas,married,3.300,Q1,3.333,1.533,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,59,55
+Male,55,8,professional,VIC,married,3.167,Q1,3.867,2.933,yes,yes,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,yes,59,41
+Male,54,8,professional,NSW,living with a partner,4.500,Q4,4.400,3.958,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,no,no,yes,no,yes,yes,60,49
+Male,49,1,manager or administrator,VIC,married,3.633,Q2,3.333,2.345,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,60,40
+Female,55,7,home-duties,VIC,married,3.267,Q1,4.000,2.150,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,60,42
+Male,63,2,retired,NSW,married,3.467,Q2,3.333,2.158,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,60,52
+Female,69,4,retired,VIC,widowed,3.767,Q2,4.000,2.759,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,60,47
+Female,46,4,professional,NSW,single,4.233,Q4,4.267,4.125,yes,no,yes,yes,yes,no,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,yes,60,50
+Female,61,2,manager or administrator,NSW,separated or divorced,3.833,Q3,3.067,3.000,yes,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,yes,no,no,61,42
+Male,28,7,manager or administrator,NSW,living with a partner,3.733,Q2,3.933,2.800,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,61,49
+Female,33,7,professional,NSW,single,4.467,Q4,3.800,3.267,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,62,41
+Female,30,3,Clerical or service worker,VIC,married,3.600,Q2,3.800,3.333,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,62,48
+Male,50,7,professional,SA,single,4.033,Q3,2.933,3.080,no,no,no,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,yes,62,59
+Male,23,7,professional,VIC,single,3.933,Q3,4.133,2.370,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,62,55
+Female,58,1,home-duties,NSW,separated or divorced,4.033,Q3,3.067,1.733,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,62,56
+Female,35,8,professional,WA,married,3.067,Q1,3.467,,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,62,42
+Male,22,6,sales,VIC,single,2.933,Q1,2.333,2.652,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,yes,63,50
+Male,39,3,tradesperson,QLD,married,3.967,Q3,3.933,2.867,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,63,46
+Female,35,3,professional,NSW,living with a partner,4.200,Q3,3.667,2.100,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,63,43
+Male,21,7,sales,NSW,single,3.433,Q2,4.133,2.148,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,yes,yes,yes,yes,63,48
+Male,62,8,professional,VIC,married,3.633,Q2,2.933,2.571,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,63,52
+Male,24,8,professional,NSW,single,3.267,Q1,3.400,2.294,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,63,54
+Male,49,4,Clerical or service worker,NSW,married,4.100,Q3,3.000,3.577,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,64,42
+Female,41,1,sales,SA,married,4.133,Q3,4.333,3.172,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,yes,no,no,no,yes,64,46
+Male,21,6,unemployed,NSW,single,3.600,Q2,4.067,2.929,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,65,48
+Male,37,6,labourer,SA,married,1.000,Q1,5.000,2.033,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,65,50
+Female,28,6,professional,ACT,married,3.967,Q3,3.333,2.300,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,65,43
+Male,59,8,professional,SA,single,3.867,Q3,3.600,1.852,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,65,59
+Male,37,7,manager or administrator,NSW,married,3.667,Q2,3.733,2.727,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,67,43
+Female,31,6,Clerical or service worker,NSW,married,3.933,Q3,4.267,3.227,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,67,57
+Male,59,6,retired,NSW,married,4.067,Q3,3.400,3.250,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,no,yes,no,no,yes,67,56
+Female,42,3,Clerical or service worker,WA,married,3.133,Q1,3.267,2.542,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,no,67,40
+Female,52,2,small business owner,ACT,married,4.100,Q3,4.200,2.714,yes,no,no,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,yes,no,yes,no,yes,69,58
+Female,61,1,labourer,WA,separated or divorced,4.733,Q4,4.600,3.875,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,69,91
+Female,60,3,home-duties,SA,married,4.367,Q4,4.200,3.889,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,no,yes,70,29
+Male,30,7,professional,WA,married,3.833,Q3,3.200,2.793,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,no,yes,70,77
+Female,35,7,sales,VIC,single,2.267,Q1,3.267,2.346,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,71,35
+Male,39,7,professional,WA,single,3.067,Q1,4.067,2.417,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,71,95
+Male,36,8,manager or administrator,WA,married,2.000,Q1,2.467,1.600,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,yes,yes,71,11
+Male,25,7,professional,NSW,married,3.900,Q3,4.333,3.033,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,71,75
+Female,31,1,home-duties,VIC,living with a partner,4.300,Q4,3.400,3.000,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,71,9
+Male,35,8,professional,QLD,married,3.767,Q2,3.600,1.833,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,71,75
+Male,40,8,professional,QLD,married,4.100,Q3,3.933,2.867,yes,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,72,34
+Male,58,1,retired,QLD,married,4.967,Q4,4.267,3.679,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,yes,yes,yes,no,yes,72,71
+Female,65,3,retired,NSW,married,2.567,Q1,4.467,2.000,yes,yes,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,no,no,yes,73,5
+Male,59,4,manager or administrator,NSW,married,2.800,Q1,2.600,2.222,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,73,88
+Female,41,3,home-duties,QLD,married,3.533,Q2,3.400,3.000,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,73,7
+Female,45,1,home-duties,SA,separated or divorced,4.233,Q4,4.067,3.500,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,73,73
+Female,49,1,sales,WA,living with a partner,3.667,Q2,3.467,,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,74,10
+Female,23,7,professional,WA,living with a partner,2.800,Q1,2.267,1.967,yes,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,74,72
+Male,58,7,small business owner,NSW,separated or divorced,3.467,Q2,3.333,2.300,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,75,5
+Female,61,1,home-duties,QLD,married,4.033,Q3,3.600,3.690,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,75,93
+Female,40,4,professional,VIC,living with a partner,4.100,Q3,3.133,3.947,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,76,40
+Female,33,2,unemployed,NSW,married,5.000,Q4,2.533,3.633,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,76,87
+Male,59,1,retired,QLD,married,3.100,Q1,2.933,2.833,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,77,12
+Male,54,7,manager or administrator,VIC,married,4.300,Q4,4.133,3.261,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,77,97
+Male,27,7,manager or administrator,Tas,single,2.700,Q1,2.267,3.261,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,no,no,no,no,77,36
+Male,41,8,sales,VIC,married,3.133,Q1,3.067,2.367,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,77,74
+Female,32,7,home-duties,NSW,married,3.633,Q2,4.067,2.680,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,78,22
+Female,41,8,professional,VIC,single,4.167,Q3,4.667,4.190,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,no,yes,yes,no,78,90
+Male,50,7,Clerical or service worker,NSW,married,4.133,Q3,3.533,2.875,yes,no,no,no,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,yes,78,17
+Male,21,7,sales,VIC,single,3.800,Q2,3.800,2.276,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,78,88
+Male,45,6,transport worker,QLD,married,4.033,Q3,3.667,2.696,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,78,20
+Male,71,1,retired,Tas,living with a partner,3.800,Q2,3.000,2.500,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,78,76
+Male,37,8,professional,NSW,married,3.967,Q3,3.867,4.190,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,no,no,no,yes,no,yes,no,no,no,78,16
+Female,40,2,Clerical or service worker,NSW,married,3.333,Q1,3.867,2.214,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,78,89
+Female,46,4,small business owner,NSW,married,3.267,Q1,3.533,2.684,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,yes,78,1
+Female,55,2,Clerical or service worker,QLD,married,3.700,Q2,4.200,4.071,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,78,78
+Male,60,2,retired,VIC,married,3.600,Q2,4.133,3.345,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,no,yes,78,1
+Male,37,1,professional,VIC,,2.433,Q1,3.133,2.200,yes,yes,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,78,73
+Male,56,8,Clerical or service worker,WA,married,4.033,Q3,4.267,3.667,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,79,35
+Female,56,6,Clerical or service worker,QLD,married,4.400,Q4,4.467,3.433,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,79,83
+Female,36,1,Clerical or service worker,VIC,living with a partner,4.267,Q4,4.067,3.857,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,81,5
+Female,36,6,professional,NSW,separated or divorced,3.633,Q2,3.600,3.250,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,81,93
+Male,52,2,small business owner,NSW,married,3.667,Q2,3.333,1.933,yes,no,no,yes,no,no,no,yes,yes,yes,no,yes,no,no,no,yes,no,no,no,no,85,26
+Female,63,6,sales,QLD,separated or divorced,4.233,Q4,3.467,3.038,yes,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,85,75
+Female,58,1,Clerical or service worker,VIC,separated or divorced,4.000,Q3,4.333,2.467,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,86,20
+Male,62,3,transport worker,QLD,married,4.333,Q4,4.867,3.483,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no,86,95
+Female,59,2,home-duties,NSW,separated or divorced,3.300,Q1,4.267,,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,87,27
+Female,38,2,home-duties,VIC,separated or divorced,4.400,Q4,4.133,4.467,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,87,63
+Female,42,1,home-duties,QLD,married,4.133,Q3,3.400,4.400,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,yes,no,no,87,13
+Male,39,4,professional,NSW,single,4.967,Q4,4.267,2.818,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,yes,87,75
+Female,58,8,manager or administrator,QLD,separated or divorced,4.300,Q4,4.267,2.586,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,87,10
+Male,46,8,manager or administrator,NSW,married,4.000,Q3,4.067,2.630,yes,no,no,no,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,no,yes,87,92
+Male,55,7,professional,WA,separated or divorced,4.367,Q4,4.467,3.167,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,88,13
+Male,36,8,unemployed,WA,living with a partner,1.000,Q1,3.800,2.118,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,88,86
+Male,60,8,manager or administrator,NSW,married,4.333,Q4,3.733,2.931,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,88,15
+Female,41,6,home-duties,NSW,married,4.000,Q3,3.400,4.545,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,88,69
+Female,41,1,home-duties,QLD,married,4.067,Q3,4.067,3.533,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,93,14
+Female,36,3,Clerical or service worker,QLD,married,4.233,Q4,3.933,3.481,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,93,90
+Female,55,2,retired,QLD,separated or divorced,4.600,Q4,4.200,3.852,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,97,32
+Male,21,7,unemployed,NSW,single,3.333,Q1,2.333,2.261,no,no,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,97,86
+Female,44,6,manager or administrator,WA,single,3.800,Q2,3.667,3.625,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,98,15
+Female,55,8,home-duties,NSW,married,3.300,Q1,3.067,2.633,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,98,88
+Female,61,8,professional,VIC,married,3.633,Q2,4.267,3.444,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,99,39
+Female,38,7,Clerical or service worker,NSW,married,3.933,Q3,4.733,3.300,yes,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,yes,99,97
+Female,61,7,professional,NSW,single,4.467,Q4,3.400,3.750,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes,101,24
+Male,64,8,professional,QLD,married,3.733,Q2,2.667,2.867,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,101,68
+Female,59,2,,NSW,married,4.300,Q4,3.667,3.143,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,103,17
+Female,38,1,labourer,VIC,married,3.500,Q2,4.400,3.000,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,no,yes,yes,103,85
+Male,21,7,professional,NSW,single,3.800,Q2,3.600,3.077,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,103,23
+Female,60,4,professional,SA,married,3.500,Q2,3.533,2.583,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,103,69
+Female,58,3,home-duties,VIC,married,3.900,Q3,3.600,3.250,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,no,113,8
+Female,74,1,sales,NSW,married,2.667,Q1,3.733,1.933,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,113,91
+Female,58,1,retired,VIC,single,3.933,Q3,4.333,2.762,yes,yes,no,no,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,yes,120,16
+Male,45,2,manager or administrator,VIC,married,3.567,Q2,3.267,2.767,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,120,79
+Female,39,3,manager or administrator,NSW,married,3.700,Q2,2.867,3.000,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,yes,126,28
+Male,57,3,Clerical or service worker,NSW,married,2.567,Q1,2.267,1.759,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,yes,no,yes,yes,126,74
+Female,39,7,manager or administrator,NSW,single,4.767,Q4,4.533,4.533,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,137,18
+Female,84,2,Clerical or service worker,VIC,married,3.133,Q1,3.000,2.944,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,no,no,yes,no,yes,no,no,yes,137,83
+Male,27,7,professional,NSW,married,4.433,Q4,3.933,3.727,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes,,
+Male,47,3,,NSW,married,3.633,Q2,3.067,2.069,yes,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,24,3,home-duties,VIC,married,4.433,Q4,3.333,1.931,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,,
+Female,60,4,home-duties,VIC,single,4.433,Q4,3.333,3.000,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,yes,no,no,yes,,
+Male,21,2,manager or administrator,NSW,single,3.533,Q2,3.467,2.200,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,55,6,retired,NSW,married,3.833,Q3,4.067,3.583,no,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,23,6,manager or administrator,NSW,single,3.033,Q1,3.733,1.967,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,,
+Female,61,1,home-duties,QLD,married,3.767,Q2,3.467,2.857,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Male,60,1,small business owner,QLD,married,3.933,Q3,3.400,3.400,yes,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,yes,,
+Female,55,1,home-duties,QLD,married,3.967,Q3,4.133,3.056,yes,no,no,yes,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,,
+Male,29,7,professional,NSW,single,3.400,Q2,3.267,2.478,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,yes,yes,yes,,
+Male,59,8,retired,WA,living with a partner,4.233,Q4,5.000,3.833,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,yes,,
+Female,49,6,Clerical or service worker,WA,married,3.733,Q2,3.600,2.692,yes,yes,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,,
+Male,22,6,professional,SA,living with a partner,3.100,Q1,2.533,2.233,yes,no,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,,
+Female,61,8,Clerical or service worker,VIC,single,2.733,Q1,2.933,2.318,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,no,no,,
+Female,40,2,manager or administrator,NSW,married,3.367,Q1,3.267,1.966,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,,
+Male,52,2,transport worker,SA,separated or divorced,4.033,Q3,4.200,3.667,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,no,yes,yes,,
+Female,27,8,professional,NSW,married,3.867,Q3,3.133,3.000,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,56,7,professional,NSW,married,2.000,Q1,3.000,2.400,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,43,7,manager or administrator,NSW,living with a partner,3.533,Q2,3.067,,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,41,7,professional,NSW,married,3.500,Q2,3.400,2.731,yes,no,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,yes,yes,,
+Male,29,7,professional,NSW,single,3.067,Q1,4.200,2.545,yes,yes,no,no,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,no,yes,no,no,yes,,
+Female,25,6,tradesperson,VIC,single,4.800,Q4,3.467,3.233,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes,,
+Male,35,8,manager or administrator,QLD,married,4.233,Q4,3.800,2.292,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,59,1,,VIC,married,4.233,Q4,3.733,3.571,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,,
+Male,27,3,Clerical or service worker,VIC,single,4.000,Q3,3.067,2.967,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,42,6,professional,SA,married,4.767,Q4,3.200,4.200,yes,no,yes,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,yes,,
+Female,63,3,retired,WA,separated or divorced,3.167,Q1,4.067,3.045,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes,,
+Male,47,7,manager or administrator,NSW,living with a partner,2.700,Q1,2.733,3.103,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,,
+Female,26,1,home-duties,VIC,married,3.867,Q3,3.733,2.636,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,,
+Male,50,3,small business owner,VIC,single,3.400,Q2,3.067,2.938,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,yes,,
+Male,31,3,manager or administrator,ACT,living with a partner,2.967,Q1,4.200,2.733,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,60,1,retired,NSW,married,3.533,Q2,3.067,3.412,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,36,3,,QLD,married,3.200,Q1,3.133,2.261,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,22,7,professional,NSW,single,3.667,Q2,4.000,3.040,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,59,7,small business owner,VIC,married,3.533,Q2,2.600,3.296,yes,no,no,yes,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,,
+Female,31,7,professional,NSW,married,2.533,Q1,2.733,2.100,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,yes,,
+Male,37,7,labourer,QLD,married,3.333,Q1,2.467,2.267,yes,no,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,,
+Female,42,1,home-duties,WA,married,3.667,Q2,3.600,3.000,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,,
+Male,33,7,professional,NSW,married,4.367,Q4,3.133,3.667,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,,
+Male,39,4,manager or administrator,VIC,married,3.433,Q2,4.200,2.630,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,,
+Male,31,7,Clerical or service worker,SA,separated or divorced,4.600,Q4,4.133,4.100,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,,
+Female,59,2,,NSW,married,3.433,Q2,2.133,2.450,no,no,no,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,no,no,yes,no,yes,yes,,
+Male,57,7,manager or administrator,NSW,separated or divorced,4.967,Q4,4.667,2.500,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,,
+Male,41,6,tradesperson,QLD,single,3.433,Q2,4.200,2.033,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,,
+Male,43,6,manager or administrator,WA,married,3.400,Q2,3.800,3.000,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,,
+Male,33,3,labourer,SA,single,3.567,Q2,3.933,3.240,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,yes,no,no,yes,,
+Male,23,6,sales,VIC,single,3.733,Q2,4.000,3.000,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,no,,
+Male,53,6,Clerical or service worker,VIC,married,3.933,Q3,4.400,2.667,yes,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,yes,yes,,
+Female,65,3,retired,NSW,married,4.433,Q4,4.133,3.636,yes,no,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,no,yes,no,yes,no,yes,,
+Male,48,3,home-duties,VIC,married,3.333,Q1,3.333,1.793,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,yes,no,yes,,
+Female,63,3,retired,VIC,married,4.433,Q4,3.667,3.722,yes,no,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,,
+Female,36,7,professional,VIC,married,4.067,Q3,4.133,2.185,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Female,51,8,small business owner,WA,married,3.967,Q3,3.600,3.538,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,yes,yes,,
+Male,58,7,professional,NSW,married,4.700,Q4,3.200,3.300,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,53,4,Clerical or service worker,QLD,separated or divorced,4.267,Q4,4.467,3.619,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,66,4,retired,WA,married,3.667,Q2,2.667,3.037,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,,
+Male,74,4,tradesperson,SA,married,2.933,Q1,3.467,1.900,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,38,3,professional,NSW,living with a partner,4.367,Q4,4.000,2.967,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,,
+Male,34,7,professional,VIC,married,4.733,Q4,3.467,3.773,yes,yes,yes,yes,yes,no,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,no,yes,,
+Male,58,4,manager or administrator,NSW,married,3.000,Q1,3.133,2.967,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,,
+Female,40,4,small business owner,QLD,married,3.200,Q1,3.933,2.233,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Female,55,4,,NSW,widowed,3.867,Q3,4.200,4.235,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,,
+Male,30,4,manager or administrator,QLD,living with a partner,4.167,Q3,3.800,2.667,yes,no,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,,
+Male,42,2,professional,NSW,married,3.367,Q1,4.133,,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,58,3,professional,NSW,single,4.467,Q4,4.533,3.391,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,35,3,manager or administrator,QLD,single,4.267,Q4,3.467,2.667,yes,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,58,1,Clerical or service worker,QLD,married,4.333,Q4,4.000,4.100,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,,
+Female,70,2,professional,VIC,living with a partner,3.933,Q3,3.067,4.500,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,,
+Female,60,7,manager or administrator,QLD,married,4.533,Q4,4.200,4.714,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Female,32,7,professional,ACT,single,4.267,Q4,3.733,3.045,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,20,1,Clerical or service worker,QLD,single,4.500,Q4,4.133,3.600,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,yes,no,no,,
+Male,22,6,sales,NSW,single,2.900,Q1,3.667,2.864,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,yes,no,yes,,
+Male,56,7,sales,VIC,married,4.100,Q3,2.000,3.692,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,,
+Male,62,6,tradesperson,VIC,married,4.000,Q3,3.200,2.967,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,55,2,Clerical or service worker,NSW,married,3.433,Q2,3.733,2.103,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,,
+Male,61,8,professional,VIC,married,2.533,Q1,3.800,2.680,yes,yes,no,yes,yes,yes,no,yes,no,yes,no,no,yes,no,yes,yes,no,yes,yes,yes,,
+Male,56,7,manager or administrator,Tas,married,4.167,Q3,2.800,2.767,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,yes,,
+Female,42,6,Clerical or service worker,NSW,single,3.167,Q1,4.400,2.357,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,no,no,yes,yes,yes,,
+Male,38,8,unemployed,VIC,married,4.367,Q4,3.867,3.000,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,,
+Male,40,7,manager or administrator,NSW,separated or divorced,2.233,Q1,2.467,1.926,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes,,
+Male,41,6,professional,NSW,married,3.967,Q3,4.533,2.920,yes,no,no,yes,no,yes,no,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Female,23,3,manager or administrator,VIC,single,4.067,Q3,3.867,2.654,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,61,3,professional,VIC,living with a partner,3.167,Q1,3.267,3.800,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,44,7,professional,QLD,married,1.900,Q1,4.067,3.533,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Female,34,3,home-duties,NSW,living with a partner,4.367,Q4,3.733,3.609,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,,
+Female,28,7,manager or administrator,QLD,single,2.600,Q1,2.667,1.913,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,,
+Male,55,8,manager or administrator,VIC,single,4.000,Q3,3.600,2.700,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,37,2,home-duties,QLD,living with a partner,3.100,Q1,3.667,3.048,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,no,no,,
+Female,58,2,,NSW,married,3.900,Q3,3.400,4.000,yes,no,no,no,no,no,yes,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,,
+Male,22,3,professional,QLD,living with a partner,4.333,Q4,4.267,2.700,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,43,3,professional,NSW,married,4.133,Q3,3.467,2.967,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,yes,,
+Male,20,3,manager or administrator,NSW,single,4.300,Q4,4.400,3.813,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,,
+Female,61,3,manager or administrator,NSW,single,3.267,Q1,4.333,2.760,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,,
+Male,56,8,manager or administrator,NSW,separated or divorced,2.800,Q1,2.867,2.367,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,,
+Female,29,4,home-duties,QLD,living with a partner,3.333,Q1,3.333,2.615,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,58,8,professional,VIC,single,2.733,Q1,3.533,1.833,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,28,7,sales,NSW,living with a partner,3.667,Q2,3.600,2.850,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,25,8,manager or administrator,NSW,single,3.567,Q2,3.200,3.125,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,,
+Male,59,2,unemployed,NSW,married,4.367,Q4,3.400,3.100,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,no,yes,,
+Male,33,8,manager or administrator,Tas,single,4.033,Q3,3.867,2.333,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,,
+Male,51,3,professional,NSW,married,3.033,Q1,3.800,2.100,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,,
+Female,26,1,sales,VIC,separated or divorced,4.400,Q4,3.333,4.071,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,59,,,NSW,widowed,3.367,Q1,4.600,2.500,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,,
+Female,25,3,manager or administrator,NT,single,2.700,Q1,3.600,1.800,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,,
+Male,33,6,unemployed,VIC,single,3.967,Q3,4.000,,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,35,7,professional,QLD,single,3.700,Q2,3.800,3.267,yes,no,yes,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,28,7,sales,WA,single,3.167,Q1,3.400,2.148,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,,
+Female,21,7,Clerical or service worker,QLD,living with a partner,4.167,Q3,3.600,2.179,yes,yes,no,no,no,no,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,57,8,manager or administrator,NSW,married,3.967,Q3,3.667,3.296,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,,
+Male,35,3,manager or administrator,SA,married,2.900,Q1,3.000,2.267,no,no,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,yes,,
+Male,32,4,tradesperson,VIC,married,3.333,Q1,4.267,2.966,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Female,61,1,,VIC,widowed,4.167,Q3,3.667,3.000,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,19,3,Clerical or service worker,VIC,single,1.367,Q1,2.400,1.750,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,,
+Female,43,1,Clerical or service worker,VIC,separated or divorced,3.267,Q1,3.533,3.000,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,38,8,manager or administrator,NSW,married,3.700,Q2,3.800,2.478,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,yes,yes,no,yes,,
+Female,59,2,Clerical or service worker,NSW,married,3.700,Q2,3.933,3.267,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Male,66,7,small business owner,NSW,separated or divorced,3.700,Q2,3.333,2.393,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Female,55,6,manager or administrator,WA,married,3.700,Q2,3.000,3.208,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,19,1,unemployed,WA,single,3.100,Q1,4.067,2.692,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,,
+Male,60,7,retired,WA,married,3.267,Q1,3.800,3.167,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,yes,,
+Female,26,6,home-duties,SA,married,3.933,Q3,3.800,3.364,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,,
+Male,55,8,manager or administrator,VIC,living with a partner,4.433,Q4,4.133,2.700,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,yes,yes,,
+Male,56,7,Clerical or service worker,VIC,married,4.300,Q4,3.267,2.500,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,,
+Female,61,6,Clerical or service worker,VIC,married,3.433,Q2,3.133,2.931,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,44,6,home-duties,QLD,married,3.300,Q1,3.333,2.633,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,31,1,home-duties,QLD,married,3.367,Q1,3.333,2.034,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,,
+Female,42,2,professional,VIC,single,3.633,Q2,4.067,3.875,yes,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,yes,no,yes,no,no,no,yes,,
+Male,63,1,retired,NSW,married,3.467,Q2,4.467,3.033,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,yes,yes,yes,yes,,
+Female,34,7,professional,WA,married,3.400,Q2,3.600,2.731,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,31,3,small business owner,NSW,married,3.900,Q3,4.333,3.071,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,,
+Male,46,3,small business owner,NSW,living with a partner,4.267,Q4,4.200,3.125,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes,,
+Female,21,3,unemployed,VIC,single,3.933,Q3,4.000,2.560,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,30,3,unemployed,WA,living with a partner,4.033,Q3,3.933,3.238,yes,no,yes,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,,
+Male,39,1,labourer,VIC,married,4.367,Q4,3.933,3.944,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,yes,,
+Female,19,2,sales,QLD,single,3.967,Q3,3.733,3.038,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,23,7,Clerical or service worker,NSW,single,4.033,Q3,3.467,3.433,yes,no,no,yes,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,no,no,yes,,
+Male,46,8,professional,SA,married,3.067,Q1,4.733,3.636,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,,
+Female,39,4,sales,WA,married,2.267,Q1,2.933,3.500,yes,yes,no,no,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,39,4,manager or administrator,NSW,single,4.567,Q4,4.933,3.429,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,yes,no,,
+Female,19,,,VIC,single,3.400,Q2,3.133,2.375,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,no,yes,no,,
+Female,59,8,manager or administrator,SA,separated or divorced,3.100,Q1,3.600,1.700,no,no,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,,
+Male,76,3,retired,VIC,married,3.600,Q2,4.133,1.900,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Female,36,3,Clerical or service worker,QLD,married,4.433,Q4,3.533,2.367,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,55,2,retired,SA,married,3.633,Q2,3.667,2.813,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,28,8,professional,VIC,married,4.833,Q4,4.200,3.207,yes,no,no,yes,no,no,yes,yes,yes,no,yes,no,no,no,no,no,no,yes,no,yes,,
+Female,33,7,sales,VIC,single,4.400,Q4,4.467,3.571,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,59,7,,QLD,married,3.733,Q2,3.200,2.346,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,41,7,professional,QLD,married,3.567,Q2,2.933,2.667,yes,yes,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,yes,yes,no,yes,no,yes,,
+Male,62,8,professional,QLD,married,3.200,Q1,3.200,2.310,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Male,70,3,retired,VIC,widowed,3.700,Q2,3.533,3.778,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,,
+Male,64,1,manager or administrator,QLD,living with a partner,4.767,Q4,4.933,2.033,yes,no,no,no,no,yes,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Female,30,7,manager or administrator,WA,married,4.600,Q4,4.400,3.850,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,yes,no,yes,no,yes,yes,yes,,
+Male,48,2,professional,VIC,married,3.967,Q3,4.133,3.167,yes,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,,
+Male,65,1,retired,QLD,separated or divorced,4.067,Q3,3.600,3.304,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,57,6,tradesperson,NSW,married,3.367,Q1,3.267,2.667,yes,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,58,8,professional,QLD,married,3.900,Q3,3.400,3.074,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Female,36,7,unemployed,WA,married,3.900,Q3,3.533,3.333,yes,no,yes,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,no,yes,,
+Female,56,6,Clerical or service worker,NSW,single,3.667,Q2,3.400,2.750,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,,
+Female,43,6,small business owner,NSW,married,2.933,Q1,2.867,2.300,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,32,7,professional,NSW,single,3.567,Q2,4.000,2.273,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,yes,,
+Male,34,8,manager or administrator,QLD,married,3.400,Q2,3.000,2.071,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,31,4,manager or administrator,QLD,married,4.067,Q3,4.333,3.231,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,,
+Male,69,6,small business owner,NSW,married,4.267,Q4,3.733,3.400,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes,,
+Female,36,8,professional,VIC,single,3.600,Q2,2.733,2.429,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,41,8,professional,VIC,separated or divorced,4.333,Q4,4.000,2.875,yes,no,no,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,yes,,
+Female,48,7,sales,QLD,married,3.667,Q2,4.533,2.000,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,yes,no,yes,yes,,
+Male,36,3,sales,QLD,married,3.867,Q3,4.333,3.048,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,,
+Male,59,1,manager or administrator,SA,living with a partner,4.200,Q3,3.133,3.533,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,no,,
+Female,56,7,Clerical or service worker,NSW,married,4.133,Q3,3.133,3.182,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes,,
+Female,19,1,,NSW,living with a partner,3.700,Q2,4.533,2.958,yes,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,,
+Male,36,4,manager or administrator,NSW,married,4.233,Q4,3.000,2.933,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,34,7,professional,QLD,married,3.967,Q3,3.267,2.810,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,yes,,
+Male,33,3,,WA,living with a partner,4.167,Q3,3.733,2.583,yes,no,no,no,yes,no,yes,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,,
+Female,62,2,unemployed,SA,separated or divorced,4.433,Q4,3.733,2.967,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,,
+Male,57,8,professional,NSW,separated or divorced,4.667,Q4,3.400,3.840,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,40,7,manager or administrator,SA,separated or divorced,4.200,Q3,2.800,3.304,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,67,1,retired,SA,living with a partner,3.100,Q1,3.067,,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,27,7,professional,NSW,living with a partner,4.100,Q3,3.667,2.828,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,no,yes,yes,yes,,
+Male,34,6,manager or administrator,NSW,married,2.600,Q1,3.733,2.474,yes,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,yes,no,no,yes,no,,
+Male,59,7,professional,VIC,married,3.400,Q2,3.133,2.688,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,33,8,professional,NSW,married,3.200,Q1,3.533,2.000,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Female,43,7,professional,QLD,living with a partner,3.633,Q2,3.200,1.828,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,55,8,manager or administrator,QLD,married,4.900,Q4,4.267,,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,yes,yes,,
+Female,21,7,unemployed,QLD,single,3.667,Q2,3.333,2.704,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,,
+Male,57,7,professional,QLD,living with a partner,4.000,Q3,3.400,3.214,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Male,53,6,sales,NSW,married,4.433,Q4,3.467,3.950,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Female,41,3,home-duties,WA,married,3.300,Q1,3.333,2.476,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,42,4,professional,VIC,married,3.733,Q2,4.400,2.700,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,,
+Male,63,6,professional,VIC,married,4.333,Q4,4.867,3.333,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,,
+Male,23,7,,NSW,single,2.967,Q1,3.400,2.727,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,,
+Male,48,2,manager or administrator,NSW,married,3.100,Q1,3.467,2.367,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,,
+Female,30,2,Clerical or service worker,VIC,single,4.433,Q4,4.533,3.067,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,,
+Female,29,8,professional,WA,single,3.767,Q2,3.600,2.333,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,,
+Male,28,7,professional,QLD,living with a partner,3.700,Q2,3.200,2.962,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,yes,,
+Male,55,8,professional,NSW,married,3.733,Q2,4.200,1.778,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,,
+Female,64,2,retired,QLD,married,3.833,Q3,3.400,3.600,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no,,
+Female,47,7,manager or administrator,SA,living with a partner,4.033,Q3,4.733,2.300,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,,
+Female,33,4,unemployed,WA,married,4.033,Q3,3.867,4.286,yes,no,yes,yes,no,no,no,no,yes,no,no,no,yes,yes,no,yes,no,no,no,no,,
+Male,21,3,tradesperson,SA,living with a partner,3.600,Q2,3.800,2.233,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,19,2,,QLD,living with a partner,3.267,Q1,4.267,2.222,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,yes,no,no,no,yes,,
+Female,39,8,manager or administrator,ACT,single,3.800,Q2,3.400,2.100,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,,
+Female,29,6,manager or administrator,NSW,living with a partner,2.600,Q1,4.200,3.357,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no,yes,no,yes,yes,,
+Female,43,1,home-duties,NSW,single,4.667,Q4,3.133,2.633,yes,no,no,yes,no,no,yes,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,,
+Male,35,7,professional,VIC,married,2.767,Q1,2.400,1.600,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,,
+Male,29,7,professional,NSW,single,3.167,Q1,2.933,2.241,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,no,no,yes,no,yes,no,yes,,
+Female,46,1,small business owner,QLD,married,3.433,Q2,4.133,3.462,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,,
+Male,55,6,transport worker,VIC,married,2.933,Q1,3.267,3.000,yes,no,no,no,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Male,34,8,professional,QLD,married,3.033,Q1,3.267,2.700,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Female,36,3,professional,VIC,married,3.300,Q1,3.333,2.483,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,yes,no,no,yes,,
+Female,51,2,home-duties,QLD,married,4.267,Q4,4.667,3.250,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,,
+Female,26,8,manager or administrator,QLD,married,3.633,Q2,2.933,2.700,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,,
+Female,28,7,Clerical or service worker,NSW,married,2.933,Q1,4.067,2.333,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,55,1,retired,QLD,living with a partner,4.633,Q4,4.733,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,35,3,sales,SA,married,3.633,Q2,3.133,,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,47,8,small business owner,VIC,living with a partner,4.233,Q4,3.733,2.517,no,no,no,yes,no,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,no,yes,yes,,
+Female,42,1,Clerical or service worker,SA,separated or divorced,3.833,Q3,3.733,3.000,yes,no,no,no,yes,no,no,yes,yes,yes,no,no,no,yes,yes,no,no,no,no,yes,,
+Female,61,7,retired,NSW,married,3.933,Q3,3.800,2.941,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,70,2,manager or administrator,VIC,married,3.267,Q1,3.800,1.690,yes,yes,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,yes,,
+Female,62,6,small business owner,VIC,married,3.900,Q3,4.067,1.966,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Female,59,3,Clerical or service worker,QLD,married,4.367,Q4,3.933,3.667,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,,
+Male,60,3,retired,NSW,single,4.100,Q3,3.467,2.867,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,22,3,professional,NSW,single,2.800,Q1,2.733,2.067,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,,
+Male,64,6,manager or administrator,VIC,married,4.700,Q4,3.800,3.464,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,no,no,,
+Male,35,7,professional,Tas,single,2.867,Q1,3.000,2.167,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,no,yes,yes,,
+Male,64,7,retired,NSW,married,3.800,Q2,4.267,3.176,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,43,7,professional,QLD,single,4.133,Q3,4.000,3.467,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,yes,yes,,
+Male,45,3,transport worker,QLD,married,4.033,Q3,3.133,2.833,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,52,6,professional,VIC,married,4.567,Q4,4.733,3.821,yes,no,no,no,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes,,
+Female,52,2,,NSW,married,3.933,Q3,3.200,3.294,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,yes,yes,,
+Female,28,6,manager or administrator,VIC,married,3.733,Q2,3.467,2.233,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,64,3,retired,VIC,married,3.733,Q2,4.267,3.556,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,,
+Male,39,3,tradesperson,WA,single,3.567,Q2,3.667,2.633,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,41,1,unemployed,VIC,married,3.867,Q3,4.267,2.393,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,62,2,retired,VIC,married,4.467,Q4,4.400,,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,yes,no,yes,no,,
+Male,62,6,retired,VIC,married,3.500,Q2,3.133,2.833,yes,no,no,yes,no,no,yes,no,no,no,yes,no,no,yes,no,yes,no,yes,yes,yes,,
+Male,38,7,professional,NSW,single,4.467,Q4,3.800,3.000,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,,
+Female,37,3,Clerical or service worker,NSW,married,3.500,Q2,3.600,2.893,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,33,6,Clerical or service worker,QLD,separated or divorced,3.233,Q1,3.933,2.778,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,yes,,
+Female,41,4,home-duties,NSW,married,2.567,Q1,4.267,1.633,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,37,3,unemployed,VIC,living with a partner,4.367,Q4,4.867,4.222,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,no,yes,,
+Female,64,2,home-duties,VIC,married,4.100,Q3,4.133,3.400,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes,yes,no,no,yes,,
+Male,56,3,manager or administrator,SA,,4.200,Q3,4.200,3.000,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,yes,,
+Female,50,4,home-duties,VIC,single,4.067,Q3,3.933,4.222,yes,yes,no,yes,yes,yes,yes,no,no,yes,yes,no,no,no,yes,no,yes,no,no,yes,,
+Male,52,4,professional,Tas,married,3.867,Q3,4.667,3.200,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,34,8,professional,QLD,separated or divorced,3.033,Q1,3.467,1.909,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,62,2,manager or administrator,WA,married,4.267,Q4,4.333,2.000,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,,
+Male,19,3,sales,QLD,single,4.833,Q4,3.200,3.828,no,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,,
+Male,55,1,manager or administrator,NSW,married,2.833,Q1,3.133,3.200,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,,
+Male,35,7,manager or administrator,VIC,single,3.000,Q1,3.600,1.933,yes,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,yes,,
+Female,46,6,Clerical or service worker,NSW,separated or divorced,4.067,Q3,3.200,2.800,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,62,2,tradesperson,NSW,married,4.367,Q4,3.867,4.091,yes,no,no,no,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,yes,yes,,
+Female,56,7,professional,NT,separated or divorced,3.767,Q2,3.400,3.500,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Female,22,7,professional,VIC,single,3.533,Q2,3.467,3.563,yes,yes,no,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,,
+Female,67,4,retired,SA,married,4.867,Q4,3.667,3.714,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,29,7,manager or administrator,NSW,single,3.400,Q2,3.867,3.033,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,,
+Female,20,3,manager or administrator,QLD,single,3.167,Q1,2.800,1.759,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,no,,
+Male,53,2,home-duties,SA,married,4.233,Q4,4.000,2.692,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes,,
+Female,31,3,home-duties,Tas,married,1.333,Q1,3.533,4.600,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,27,6,professional,WA,living with a partner,4.500,Q4,4.400,3.630,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,yes,,
+Female,45,6,manager or administrator,NSW,married,3.733,Q2,3.333,2.333,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,,
+Female,59,1,retired,VIC,married,3.933,Q3,3.333,2.800,yes,no,no,yes,yes,no,no,yes,yes,yes,yes,no,yes,no,no,no,no,yes,yes,yes,,
+Male,32,6,manager or administrator,VIC,married,3.300,Q1,2.333,3.471,yes,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Male,57,2,small business owner,WA,married,4.567,Q4,4.600,4.000,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,yes,,
+Female,56,8,professional,NSW,married,4.067,Q3,4.133,2.350,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,no,no,no,yes,no,yes,yes,yes,,
+Female,37,3,manager or administrator,VIC,married,3.400,Q2,3.933,3.059,no,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,,
+Female,48,4,professional,QLD,married,3.700,Q2,3.600,3.222,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Female,53,2,Clerical or service worker,VIC,married,4.100,Q3,3.600,2.789,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,26,7,manager or administrator,QLD,married,2.567,Q1,3.467,1.733,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,36,3,professional,VIC,separated or divorced,3.533,Q2,4.133,2.600,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,40,3,Clerical or service worker,NSW,married,3.500,Q2,3.867,3.133,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,,
+Male,62,1,small business owner,QLD,married,3.767,Q2,4.067,3.700,yes,no,no,no,no,no,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,no,no,yes,,
+Female,40,2,Clerical or service worker,NSW,single,2.900,Q1,2.933,2.231,yes,yes,no,no,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,yes,yes,yes,yes,,
+Male,66,3,retired,QLD,separated or divorced,3.333,Q1,3.600,2.367,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,39,1,unemployed,VIC,married,3.967,Q3,3.600,,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,58,7,professional,NSW,separated or divorced,4.033,Q3,3.133,3.467,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,60,8,professional,NSW,married,4.033,Q3,3.600,3.269,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,,
+Female,46,2,manager or administrator,NSW,married,4.067,Q3,4.267,4.050,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,35,3,manager or administrator,QLD,married,2.733,Q1,3.067,2.033,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,,
+Female,39,3,home-duties,QLD,married,3.200,Q1,3.133,2.000,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,,
+Female,42,1,unemployed,VIC,single,2.800,Q1,3.333,,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,22,6,sales,VIC,single,4.233,Q4,3.800,3.172,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,,
+Male,46,2,small business owner,QLD,married,4.533,Q4,2.867,2.700,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,22,7,professional,VIC,single,1.633,Q1,3.133,1.933,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no,,
+Female,41,2,sales,SA,separated or divorced,4.100,Q3,3.867,2.833,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,36,3,home-duties,SA,married,3.200,Q1,4.067,4.095,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no,no,yes,,
+Female,29,7,manager or administrator,VIC,single,3.767,Q2,3.467,2.286,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,yes,,
+Female,47,6,sales,NSW,married,4.500,Q4,3.867,3.167,no,no,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,55,8,professional,VIC,living with a partner,3.467,Q2,3.267,2.433,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,19,1,unemployed,SA,single,3.500,Q2,3.600,2.053,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Female,57,1,home-duties,SA,separated or divorced,4.700,Q4,4.000,4.143,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,,
+Female,29,8,,ACT,married,3.933,Q3,3.067,2.960,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,yes,no,yes,yes,,
+Male,59,1,manager or administrator,VIC,married,3.667,Q2,3.733,2.733,yes,no,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,no,yes,,
+Female,38,6,Clerical or service worker,NSW,single,3.800,Q2,3.800,3.889,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,51,7,manager or administrator,QLD,married,3.233,Q1,3.933,3.100,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,no,yes,no,no,yes,,
+Male,46,3,small business owner,QLD,married,3.867,Q3,3.333,4.750,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,,
+Female,49,8,manager or administrator,WA,married,4.267,Q4,3.933,3.692,no,no,no,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,56,7,sales,VIC,living with a partner,3.800,Q2,3.000,2.633,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,,
+Female,56,6,Clerical or service worker,NSW,married,4.333,Q4,3.600,2.313,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,yes,no,yes,,
+Male,41,6,manager or administrator,VIC,married,3.567,Q2,3.667,2.385,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,65,3,retired,VIC,separated or divorced,3.400,Q2,4.467,3.038,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,,
+Male,42,3,small business owner,NSW,married,3.533,Q2,2.733,2.133,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Male,65,8,manager or administrator,NSW,married,4.567,Q4,4.333,3.433,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,,
+Female,37,8,professional,VIC,married,3.600,Q2,3.733,2.826,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,,
+Male,20,6,unemployed,VIC,single,3.033,Q1,3.933,2.862,yes,yes,yes,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,,
+Female,39,8,professional,QLD,single,4.200,Q3,4.267,3.621,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,no,no,yes,,
+Male,37,3,professional,QLD,married,3.033,Q1,3.067,2.300,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Female,45,7,manager or administrator,QLD,married,4.300,Q4,4.067,2.133,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes,,
+Male,41,6,transport worker,QLD,married,4.100,Q3,4.400,2.821,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,,
+Male,39,4,Clerical or service worker,VIC,single,3.800,Q2,4.133,3.538,yes,no,no,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Female,21,7,manager or administrator,NSW,single,4.400,Q4,4.133,3.069,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,,
+Female,43,1,manager or administrator,WA,living with a partner,4.800,Q4,3.067,4.467,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,24,3,Clerical or service worker,VIC,single,3.333,Q1,3.600,2.167,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,49,6,professional,QLD,living with a partner,3.800,Q2,3.933,3.167,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,,
+Male,32,7,professional,VIC,married,3.633,Q2,3.067,3.179,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,36,6,tradesperson,VIC,married,3.933,Q3,3.133,3.188,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes,,
+Female,36,4,Clerical or service worker,QLD,married,4.300,Q4,4.467,3.632,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,no,,
+Male,72,6,,QLD,married,4.600,Q4,4.267,4.360,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,no,,
+Male,67,6,retired,Tas,married,3.400,Q2,2.800,2.955,yes,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,,
+Male,24,7,professional,VIC,single,4.000,Q3,3.067,3.833,yes,no,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,,
+Female,42,8,professional,QLD,married,3.967,Q3,4.067,3.667,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,,
+Male,29,7,professional,VIC,living with a partner,3.500,Q2,3.867,3.188,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,,
+Female,55,4,professional,QLD,married,3.767,Q2,3.067,2.800,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,no,yes,no,no,no,yes,,
+Male,67,4,retired,VIC,married,4.433,Q4,3.133,3.133,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,no,,
+Male,25,7,professional,VIC,single,3.867,Q3,3.667,2.158,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,42,8,manager or administrator,NSW,married,3.933,Q3,4.733,3.100,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes,,
+Male,41,7,professional,VIC,single,1.000,Q1,3.200,2.533,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Female,29,8,transport worker,NSW,single,4.933,Q4,4.000,3.633,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,,
+Male,28,4,labourer,Tas,single,3.367,Q1,3.467,2.467,no,yes,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,,
+Female,63,1,home-duties,VIC,married,4.233,Q4,4.067,3.448,yes,no,no,no,no,no,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,no,no,yes,,
+Female,42,6,Clerical or service worker,NSW,living with a partner,3.433,Q2,2.667,2.600,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,47,6,manager or administrator,NSW,married,4.200,Q3,3.733,2.643,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,,
+Female,55,2,Clerical or service worker,NSW,separated or divorced,3.733,Q2,3.800,2.684,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,41,6,professional,NSW,living with a partner,3.967,Q3,3.667,3.192,no,yes,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,,
+Female,55,2,,NSW,separated or divorced,3.733,Q2,4.000,,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,,
+Female,58,3,home-duties,VIC,married,3.733,Q2,3.933,3.778,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,,
+Female,55,,professional,NSW,married,3.733,Q2,3.067,4.133,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,29,6,manager or administrator,SA,living with a partner,4.733,Q4,4.600,3.759,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,no,no,no,no,yes,yes,,
+Male,59,8,professional,NT,single,3.367,Q1,4.267,3.133,yes,no,no,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,,
+Male,44,3,professional,WA,married,4.200,Q3,3.600,3.813,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Male,39,3,professional,QLD,living with a partner,3.867,Q3,4.933,3.222,yes,no,no,no,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no,yes,no,,
+Female,40,2,home-duties,QLD,separated or divorced,2.600,Q1,2.600,1.913,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Female,61,2,home-duties,NSW,married,4.333,Q4,3.600,4.444,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,yes,no,yes,yes,no,yes,yes,,
+Female,19,7,unemployed,WA,single,2.600,Q1,3.200,2.300,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes,yes,yes,no,no,no,no,no,yes,yes,,
+Male,28,7,professional,NSW,single,4.700,Q4,3.467,4.033,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,46,7,manager or administrator,NSW,living with a partner,4.400,Q4,3.467,2.500,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,yes,yes,,
+Female,38,3,labourer,SA,married,4.900,Q4,4.000,3.833,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,44,2,tradesperson,NSW,married,4.000,Q3,3.667,3.700,yes,no,no,yes,yes,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,yes,yes,,
+Female,56,8,professional,NSW,separated or divorced,4.300,Q4,3.600,3.172,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,,
+Male,37,8,small business owner,QLD,married,3.900,Q3,3.533,2.433,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,24,7,professional,WA,single,3.367,Q1,2.867,2.464,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,yes,yes,,
+Male,27,8,professional,VIC,living with a partner,1.200,Q1,3.667,1.690,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,24,8,tradesperson,QLD,single,4.533,Q4,4.133,3.733,yes,yes,yes,no,yes,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,,
+Male,68,6,retired,QLD,married,4.067,Q3,4.733,3.625,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,61,3,retired,VIC,married,4.300,Q4,3.000,1.789,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,,
+Male,22,3,labourer,QLD,single,3.267,Q1,4.467,2.433,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,,
+Female,55,1,small business owner,NSW,married,4.067,Q3,3.667,4.000,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,yes,no,no,no,no,,
+Female,62,1,Clerical or service worker,VIC,married,3.767,Q2,2.800,3.217,yes,yes,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,23,7,professional,QLD,married,4.133,Q3,3.467,3.000,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,yes,yes,yes,yes,yes,yes,,
+Male,35,1,tradesperson,NSW,married,4.200,Q3,3.267,2.900,yes,no,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,no,no,yes,,
+Female,65,1,retired,QLD,married,4.033,Q3,3.200,2.480,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,,
+Female,44,4,manager or administrator,SA,separated or divorced,3.933,Q3,3.667,3.310,yes,no,no,no,no,yes,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,no,yes,,
+Male,56,8,small business owner,NSW,married,3.367,Q1,3.600,2.857,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,39,4,Clerical or service worker,QLD,married,4.400,Q4,3.067,4.091,yes,yes,no,no,yes,no,yes,no,yes,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,,
+Male,56,8,manager or administrator,QLD,separated or divorced,4.500,Q4,3.867,4.643,yes,yes,no,no,no,no,no,yes,no,no,yes,yes,yes,yes,no,yes,no,yes,no,yes,,
+Female,37,6,home-duties,NSW,married,3.867,Q3,3.400,3.857,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,57,3,home-duties,WA,married,4.700,Q4,4.733,3.567,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,23,7,sales,QLD,single,3.067,Q1,3.467,2.600,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,53,2,sales,SA,married,3.867,Q3,3.867,2.786,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,35,7,professional,ACT,married,3.833,Q3,3.667,2.286,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,61,3,retired,NSW,married,2.900,Q1,3.667,2.950,yes,no,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,,
+Female,48,4,professional,QLD,married,4.467,Q4,4.333,2.833,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Female,58,8,professional,VIC,married,4.233,Q4,3.267,3.333,yes,no,no,yes,no,no,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,,
+Male,27,8,unemployed,NSW,single,3.467,Q2,2.933,2.741,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,no,,
+Female,67,4,retired,VIC,married,4.233,Q4,4.267,3.138,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,,
+Male,45,3,manager or administrator,NSW,married,5.000,Q4,2.867,4.700,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,,
+Male,41,2,professional,NSW,married,3.733,Q2,3.067,,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,41,2,labourer,QLD,married,2.467,Q1,3.133,2.091,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,61,4,Clerical or service worker,NSW,married,4.400,Q4,4.267,4.364,no,no,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,no,yes,no,yes,yes,no,,
+Female,63,1,home-duties,NSW,married,3.700,Q2,3.800,3.222,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,,
+Female,43,4,Clerical or service worker,NSW,married,3.933,Q3,4.333,2.769,yes,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,,
+Female,67,2,,NSW,separated or divorced,3.667,Q2,3.467,2.300,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,55,2,manager or administrator,NSW,married,4.033,Q3,3.867,3.947,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,,
+Male,23,7,manager or administrator,VIC,single,1.933,Q1,2.733,1.536,no,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,,
+Female,42,7,professional,NSW,living with a partner,3.533,Q2,4.867,2.593,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,61,1,Clerical or service worker,QLD,widowed,3.600,Q2,3.200,2.100,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,yes,no,no,no,,
+Male,38,7,professional,SA,married,2.933,Q1,3.267,1.867,no,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,,
+Male,24,7,sales,NSW,living with a partner,3.467,Q2,3.733,3.579,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,,
+Male,51,7,professional,QLD,married,3.133,Q1,3.133,2.310,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes,yes,no,yes,,
+Female,38,7,Clerical or service worker,VIC,living with a partner,3.867,Q3,3.067,2.929,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,,
+Male,37,8,professional,QLD,married,3.300,Q1,3.400,2.731,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,yes,,
+Female,24,4,unemployed,NSW,married,3.033,Q1,3.733,2.364,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,,
+Female,46,1,home-duties,VIC,married,4.300,Q4,4.133,3.286,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes,,
+Male,27,6,labourer,QLD,married,4.100,Q3,3.600,2.654,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,,
+Female,35,1,small business owner,VIC,living with a partner,3.567,Q2,3.667,2.821,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,yes,no,no,no,no,yes,,
+Male,50,6,tradesperson,NSW,married,2.933,Q1,2.933,1.880,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,37,6,home-duties,QLD,single,4.367,Q4,4.000,,yes,no,yes,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,36,7,Clerical or service worker,VIC,married,3.733,Q2,3.533,2.414,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,38,8,manager or administrator,NSW,living with a partner,3.667,Q2,4.667,2.640,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,yes,no,no,no,no,yes,yes,,
+Male,30,8,professional,NSW,married,2.667,Q1,3.800,2.407,no,no,yes,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,yes,no,yes,,
+Female,31,3,home-duties,QLD,married,4.400,Q4,3.200,3.750,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,,
+Female,55,1,sales,WA,separated or divorced,3.867,Q3,4.000,2.433,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,,
+Male,46,3,manager or administrator,QLD,living with a partner,4.200,Q3,4.000,3.464,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,,
+Female,22,7,professional,VIC,single,3.967,Q3,4.067,4.440,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,26,8,professional,NSW,single,3.433,Q2,3.800,2.556,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,,
+Female,42,4,home-duties,NSW,separated or divorced,4.167,Q3,3.000,2.200,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,58,2,manager or administrator,NSW,single,3.133,Q1,4.267,1.938,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,24,7,manager or administrator,NSW,single,4.567,Q4,3.067,4.267,yes,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,,
+Female,63,1,home-duties,QLD,separated or divorced,2.933,Q1,3.200,2.636,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,42,1,tradesperson,VIC,married,4.000,Q3,3.400,2.808,yes,no,no,yes,no,yes,yes,no,no,yes,yes,no,no,no,yes,no,no,no,no,yes,,
+Female,59,2,Clerical or service worker,NSW,separated or divorced,4.500,Q4,2.333,2.300,no,no,no,yes,no,no,yes,no,no,yes,yes,yes,yes,no,no,no,yes,no,no,yes,,
+Male,45,6,manager or administrator,NSW,married,3.833,Q3,4.000,3.000,yes,no,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Female,62,4,Clerical or service worker,NSW,married,3.133,Q1,3.533,2.500,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Male,26,6,manager or administrator,VIC,single,4.100,Q3,3.867,2.897,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,yes,yes,yes,,
+Female,24,8,,VIC,single,4.000,Q3,3.867,2.364,yes,no,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,no,yes,yes,,
+Female,58,8,manager or administrator,VIC,married,4.200,Q3,4.200,3.722,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,72,1,sales,ACT,widowed,3.033,Q1,2.867,3.667,no,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes,,
+Male,30,7,professional,VIC,married,3.367,Q1,2.867,1.967,yes,yes,yes,yes,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,,
+Female,60,7,home-duties,SA,married,4.200,Q3,4.467,3.000,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,no,no,,
+Female,47,4,manager or administrator,NSW,married,4.500,Q4,3.667,3.667,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,yes,no,yes,,
+Female,56,6,unemployed,QLD,widowed,3.533,Q2,2.800,4.250,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,yes,yes,no,no,no,yes,,
+Female,32,1,home-duties,SA,married,4.933,Q4,4.200,4.036,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,yes,,
+Female,29,7,professional,WA,separated or divorced,4.333,Q4,3.800,1.833,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,28,7,Clerical or service worker,NSW,married,4.233,Q4,4.200,3.333,yes,yes,no,no,no,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,,
+Female,32,3,home-duties,QLD,married,4.100,Q3,3.333,3.875,yes,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,,
+Male,40,2,manager or administrator,VIC,living with a partner,3.533,Q2,4.267,2.107,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,,
+Female,23,7,unemployed,NSW,single,3.367,Q1,3.733,2.600,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,,
+Male,57,7,manager or administrator,QLD,living with a partner,4.233,Q4,4.000,3.053,yes,yes,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,,
+Female,37,6,Clerical or service worker,VIC,married,3.533,Q2,3.400,2.517,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,,
+Male,39,7,professional,NSW,married,5.000,Q4,3.333,3.379,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,57,7,small business owner,WA,married,4.233,Q4,3.600,2.250,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,35,4,manager or administrator,SA,single,4.233,Q4,3.400,2.731,yes,no,no,yes,no,no,yes,no,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,,
+Male,70,3,retired,QLD,married,3.500,Q2,3.867,2.448,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,yes,no,yes,,
+Male,21,6,sales,QLD,single,4.533,Q4,3.600,4.000,yes,no,yes,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes,,
+Female,30,7,sales,NSW,single,4.400,Q4,3.533,2.828,yes,no,no,yes,yes,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Female,46,2,professional,NSW,married,4.500,Q4,3.667,4.529,yes,no,yes,yes,no,no,yes,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes,,
+Female,61,2,professional,QLD,separated or divorced,4.400,Q4,4.267,2.931,yes,no,no,no,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,,
+Female,35,6,manager or administrator,QLD,single,4.367,Q4,4.533,3.000,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,,
+Male,43,3,professional,QLD,married,3.300,Q1,3.800,2.333,yes,no,yes,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Female,57,2,retired,NSW,separated or divorced,3.967,Q3,3.533,2.917,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,25,8,professional,ACT,single,3.033,Q1,2.533,3.136,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,21,7,professional,VIC,single,3.600,Q2,3.467,2.615,yes,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,no,no,yes,no,no,no,no,,
+Male,46,2,transport worker,QLD,single,4.033,Q3,4.400,3.345,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,59,8,professional,VIC,married,4.433,Q4,2.867,3.800,yes,no,no,no,no,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,,
+Female,56,,,QLD,married,4.500,Q4,4.000,3.067,yes,no,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,yes,yes,yes,yes,no,yes,,
+Male,73,2,retired,WA,married,3.567,Q2,3.533,3.167,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,yes,,
+Female,37,3,retired,SA,living with a partner,3.400,Q2,4.067,3.238,yes,yes,no,no,yes,no,yes,yes,yes,yes,no,no,no,no,no,no,yes,no,no,yes,,
+Male,37,8,professional,WA,living with a partner,2.767,Q1,4.000,3.313,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Female,58,3,Clerical or service worker,NSW,married,3.400,Q2,3.933,3.042,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,yes,no,yes,no,yes,,
+Female,28,7,sales,VIC,living with a partner,3.800,Q2,4.400,3.714,no,no,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,no,yes,no,no,no,yes,,
+Male,30,4,manager or administrator,NSW,married,4.333,Q4,4.267,3.727,yes,yes,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,61,7,professional,WA,married,3.167,Q1,4.733,3.273,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,29,7,,WA,married,3.633,Q2,3.800,2.630,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,yes,yes,yes,no,yes,no,no,,
+Female,26,3,small business owner,WA,single,4.233,Q4,3.467,4.235,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,,
+Female,56,7,,NSW,married,4.433,Q4,3.133,3.542,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,yes,no,no,yes,no,yes,yes,,
+Female,38,2,,VIC,widowed,4.933,Q4,3.133,4.556,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,
+Male,36,3,professional,VIC,single,3.600,Q2,2.667,2.880,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Female,64,1,home-duties,NSW,married,4.233,Q4,3.400,4.200,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,,
+Female,62,1,retired,VIC,married,2.700,Q1,2.600,2.200,yes,no,no,yes,no,yes,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,yes,,
+Female,33,7,professional,QLD,married,3.100,Q1,3.600,2.739,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,57,6,retired,QLD,married,3.867,Q3,4.000,3.400,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,yes,,
+Male,39,2,sales,VIC,married,3.133,Q1,3.333,1.733,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,105,7,manager or administrator,NSW,separated or divorced,4.633,Q4,2.933,3.333,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,48,2,transport worker,QLD,married,3.600,Q2,3.600,2.000,yes,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Male,70,6,,NSW,married,3.233,Q1,3.667,2.793,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,yes,,
+Female,59,6,small business owner,NSW,separated or divorced,3.967,Q3,4.133,2.200,yes,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,yes,no,yes,,
+Male,37,6,Clerical or service worker,QLD,married,3.000,Q1,3.000,2.900,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,48,8,professional,NSW,single,4.233,Q4,3.467,3.550,yes,no,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,yes,no,yes,yes,,
+Male,31,3,professional,NSW,living with a partner,3.767,Q2,4.467,3.235,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,47,6,professional,NSW,single,3.433,Q2,4.533,1.667,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,yes,,
+Female,32,6,sales,NSW,married,4.167,Q3,3.867,3.600,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,38,3,professional,SA,married,4.033,Q3,3.200,2.500,yes,yes,no,no,yes,no,yes,no,yes,no,yes,no,yes,no,yes,yes,yes,yes,yes,yes,,
+Female,20,6,sales,VIC,single,4.333,Q4,3.333,4.125,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,yes,no,no,,
+Female,40,6,unemployed,QLD,living with a partner,4.333,Q4,3.400,3.964,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,25,7,home-duties,VIC,living with a partner,3.467,Q2,3.133,2.733,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,no,,
+Male,66,8,professional,WA,married,3.567,Q2,3.533,3.267,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,,
+Male,25,8,manager or administrator,NSW,single,3.833,Q3,3.600,2.357,yes,yes,no,yes,no,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes,,
+Male,35,7,small business owner,NT,living with a partner,1.333,Q1,2.600,1.733,yes,no,no,no,yes,yes,yes,no,no,yes,no,no,no,no,yes,yes,yes,yes,no,yes,,
+Female,39,6,manager or administrator,QLD,married,4.133,Q3,3.667,3.286,yes,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,no,no,,
+Male,41,6,professional,NSW,separated or divorced,4.100,Q3,3.200,2.300,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,,
+Male,35,3,tradesperson,QLD,single,2.700,Q1,4.000,2.138,yes,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,65,4,professional,SA,married,3.900,Q3,3.600,3.700,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Male,22,7,professional,ACT,living with a partner,3.533,Q2,4.000,3.000,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,65,3,professional,SA,married,3.367,Q1,3.133,1.966,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,no,yes,no,no,no,yes,yes,,
+Male,32,8,professional,SA,married,3.333,Q1,4.400,2.722,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,,
+Male,33,1,unemployed,SA,living with a partner,3.967,Q3,3.667,3.200,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,58,1,small business owner,VIC,married,3.067,Q1,4.267,3.115,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes,,
+Male,57,1,retired,VIC,married,4.200,Q3,2.133,3.000,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Male,71,1,sales,VIC,married,2.033,Q1,1.733,1.800,yes,no,no,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,,
+Male,70,8,retired,NSW,married,3.967,Q3,3.600,2.944,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,no,no,yes,no,yes,no,yes,,
+Male,59,7,unemployed,VIC,separated or divorced,1.733,Q1,2.533,1.767,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,,
+Female,43,2,home-duties,VIC,married,3.367,Q1,3.867,2.950,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,,
+Female,47,6,Clerical or service worker,NSW,married,3.733,Q2,4.200,3.033,yes,yes,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,yes,no,yes,yes,no,,
+Female,32,3,Clerical or service worker,VIC,living with a partner,4.133,Q3,3.867,2.667,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,no,no,yes,yes,no,no,no,no,yes,,
+Male,58,1,transport worker,QLD,single,3.600,Q2,2.533,3.167,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,30,6,Clerical or service worker,VIC,living with a partner,2.300,Q1,2.867,1.967,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,,
+Female,53,1,sales,VIC,married,3.233,Q1,3.400,2.043,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,,
+Female,51,8,professional,NSW,living with a partner,4.700,Q4,4.200,4.167,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,yes,,
+Female,48,3,manager or administrator,VIC,single,4.033,Q3,4.400,2.667,yes,yes,no,no,yes,no,yes,yes,yes,yes,no,no,yes,no,no,no,yes,yes,no,yes,,
+Female,69,8,retired,QLD,married,3.733,Q2,3.067,3.650,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Female,61,6,retired,ACT,married,4.300,Q4,4.067,3.633,yes,no,no,no,no,no,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,,
+Female,26,6,manager or administrator,QLD,married,2.933,Q1,3.667,2.400,yes,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Male,21,6,Clerical or service worker,NSW,single,4.500,Q4,3.800,4.458,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,,
+Male,43,6,Clerical or service worker,WA,living with a partner,4.300,Q4,3.067,2.767,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,yes,,
+Male,61,3,retired,QLD,single,2.567,Q1,2.533,1.667,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Female,31,4,manager or administrator,NSW,married,4.467,Q4,3.800,4.176,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,,
+Female,27,1,small business owner,QLD,married,4.433,Q4,4.400,3.316,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,,
+Female,32,6,manager or administrator,VIC,married,3.400,Q2,3.333,2.333,yes,no,no,no,yes,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,,
+Male,31,1,professional,NSW,married,3.900,Q3,3.067,3.000,yes,no,no,no,yes,no,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,yes,,
+Male,26,7,manager or administrator,VIC,living with a partner,3.833,Q3,3.467,3.067,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,,
+Female,33,4,Clerical or service worker,NSW,living with a partner,4.200,Q3,3.600,2.724,yes,no,no,no,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Male,36,8,manager or administrator,NSW,single,3.000,Q1,3.133,2.448,yes,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,no,yes,no,no,no,yes,yes,,
+Male,40,3,professional,NSW,married,2.733,Q1,2.200,2.321,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,,
+Male,22,3,Clerical or service worker,WA,single,2.833,Q1,2.933,2.067,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,yes,,
+Male,48,3,retired,QLD,living with a partner,4.233,Q4,4.000,3.067,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,30,7,home-duties,WA,living with a partner,3.800,Q2,4.200,3.526,yes,yes,no,no,yes,no,no,no,no,yes,yes,no,yes,yes,no,no,yes,yes,no,yes,,
+Male,47,1,,VIC,separated or divorced,3.933,Q3,3.733,3.500,no,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,36,6,manager or administrator,VIC,single,3.133,Q1,3.600,2.519,yes,yes,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,56,6,Clerical or service worker,QLD,married,3.600,Q2,4.400,3.042,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,no,no,,
+Female,57,7,retired,QLD,separated or divorced,4.467,Q4,3.667,3.818,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Female,60,4,home-duties,WA,married,4.767,Q4,3.667,2.800,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,73,6,retired,NSW,married,3.267,Q1,3.733,2.138,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,yes,no,yes,,
+Male,52,3,transport worker,QLD,separated or divorced,4.200,Q3,2.667,3.176,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,52,4,professional,QLD,married,1.233,Q1,2.933,3.100,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Female,37,6,manager or administrator,ACT,single,4.633,Q4,3.800,3.304,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,76,8,professional,NSW,married,3.933,Q3,2.600,3.667,yes,yes,no,no,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,yes,,
+Female,74,4,retired,VIC,married,3.433,Q2,3.933,3.556,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Female,36,3,manager or administrator,NSW,married,4.267,Q4,3.667,3.556,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,no,no,yes,,
+Female,62,8,professional,NSW,single,4.500,Q4,4.933,3.143,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,38,3,professional,QLD,separated or divorced,2.800,Q1,3.733,2.133,yes,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,44,4,professional,QLD,separated or divorced,2.733,Q1,3.200,2.519,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,no,no,yes,,
+Male,43,6,professional,QLD,separated or divorced,3.900,Q3,3.800,2.545,yes,no,yes,no,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,yes,no,yes,,
+Male,40,3,tradesperson,QLD,married,2.267,Q1,4.133,1.759,yes,no,no,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,no,yes,no,yes,,
+Female,23,7,sales,VIC,single,3.933,Q3,4.200,3.091,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,28,7,professional,VIC,single,4.267,Q4,2.800,3.857,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,yes,no,yes,,
+Female,46,3,professional,QLD,married,2.033,Q1,3.800,1.933,yes,yes,no,yes,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes,,
+Male,58,2,,QLD,married,3.667,Q2,4.200,3.083,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,58,1,retired,VIC,living with a partner,3.733,Q2,4.267,2.379,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,41,1,home-duties,NSW,living with a partner,5.000,Q4,4.267,3.267,yes,no,yes,no,no,no,yes,yes,no,yes,yes,no,yes,yes,yes,yes,yes,no,no,yes,,
+Male,72,7,retired,ACT,married,3.833,Q3,3.467,3.100,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,75,3,retired,VIC,married,3.667,Q2,2.667,2.529,no,yes,no,no,yes,no,no,no,no,no,yes,yes,yes,no,no,yes,no,yes,yes,no,,
+Female,55,3,professional,WA,married,4.533,Q4,4.067,4.118,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,,
+Male,46,4,professional,VIC,married,4.067,Q3,3.733,2.467,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,yes,no,,
+Male,55,3,Clerical or service worker,VIC,married,3.800,Q2,4.067,2.233,yes,no,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,32,7,professional,NSW,married,3.433,Q2,2.933,2.100,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,yes,no,no,no,no,yes,,
+Male,31,6,transport worker,NT,married,3.600,Q2,3.067,3.333,yes,yes,yes,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,,
+Male,19,3,,NSW,single,3.000,Q1,3.133,,yes,yes,yes,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes,,
+Male,68,7,professional,VIC,married,4.500,Q4,3.667,3.621,no,yes,no,yes,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,yes,yes,,
+Female,66,8,retired,NSW,separated or divorced,4.267,Q4,3.933,2.947,yes,no,no,yes,no,yes,no,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,,
+Female,25,7,manager or administrator,NSW,living with a partner,3.000,Q1,3.000,3.000,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,39,8,manager or administrator,VIC,living with a partner,4.533,Q4,4.267,4.700,yes,yes,yes,no,no,no,yes,yes,yes,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,56,6,manager or administrator,QLD,separated or divorced,3.533,Q2,4.267,2.913,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,43,4,professional,NSW,married,3.167,Q1,3.200,2.467,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,56,2,retired,QLD,married,4.200,Q3,3.867,2.633,yes,no,no,no,yes,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,yes,,
+Male,67,8,professional,NSW,married,3.900,Q3,3.667,3.033,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,26,1,Clerical or service worker,VIC,living with a partner,3.767,Q2,3.333,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,53,1,,VIC,married,3.133,Q1,3.533,2.893,yes,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,,
+Female,32,7,home-duties,NSW,married,4.033,Q3,2.867,2.600,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,54,3,professional,VIC,living with a partner,4.533,Q4,4.333,3.840,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,40,6,tradesperson,VIC,married,4.067,Q3,4.133,3.364,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Female,24,7,,VIC,single,3.567,Q2,3.400,2.444,yes,yes,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,yes,yes,,
+Female,39,7,professional,NSW,married,3.200,Q1,2.800,2.643,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,34,8,professional,NSW,married,2.500,Q1,2.467,2.000,yes,no,yes,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,yes,no,no,,
+Male,35,8,professional,WA,living with a partner,3.833,Q3,3.000,2.600,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,yes,,
+Male,30,7,professional,NSW,married,4.333,Q4,3.267,1.667,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no,,
+Female,34,2,Clerical or service worker,VIC,married,2.933,Q1,3.133,2.433,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,56,3,small business owner,WA,married,4.133,Q3,3.533,3.800,yes,no,no,no,yes,yes,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,yes,,
+Female,22,2,unemployed,QLD,living with a partner,3.800,Q2,3.933,2.455,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,,
+Male,54,3,manager or administrator,QLD,married,3.800,Q2,3.600,2.920,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,35,7,,QLD,,3.900,Q3,4.533,4.176,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,,
+Female,72,8,professional,WA,widowed,4.633,Q4,4.467,4.500,yes,no,no,yes,yes,yes,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,32,1,manager or administrator,WA,married,3.933,Q3,3.533,3.143,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,yes,,
+Female,41,3,home-duties,NSW,married,3.633,Q2,3.200,3.143,yes,no,no,no,yes,no,yes,no,no,no,yes,no,no,no,yes,no,no,yes,no,yes,,
+Male,27,8,manager or administrator,WA,living with a partner,3.700,Q2,3.333,3.241,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,yes,no,no,no,yes,yes,,
+Male,26,7,professional,VIC,single,4.567,Q4,4.600,3.304,yes,yes,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,yes,no,yes,no,no,,
+Male,61,3,retired,VIC,married,3.767,Q2,3.800,3.375,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,,
+Male,35,6,,Tas,single,2.300,Q1,4.133,3.900,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,37,7,manager or administrator,NSW,married,3.233,Q1,3.133,2.200,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Male,34,8,professional,VIC,married,3.067,Q1,3.267,2.533,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Male,53,2,tradesperson,VIC,separated or divorced,4.067,Q3,3.733,3.154,yes,no,no,no,yes,no,yes,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes,,
+Female,34,2,small business owner,NSW,married,3.833,Q3,3.600,3.080,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,30,3,Clerical or service worker,QLD,married,3.600,Q2,3.600,2.862,yes,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,,
+Male,45,4,manager or administrator,NSW,married,4.367,Q4,4.067,2.308,yes,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,yes,no,no,yes,yes,,
+Female,36,3,home-duties,VIC,married,4.200,Q3,3.800,,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,,
+Female,31,7,professional,VIC,single,3.433,Q2,3.467,2.333,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,,
+Male,21,2,tradesperson,ACT,single,3.533,Q2,2.067,2.333,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,33,6,professional,NSW,single,4.267,Q4,4.267,3.885,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,,
+Male,51,3,small business owner,NSW,married,3.367,Q1,4.000,2.913,yes,no,no,yes,no,no,no,no,no,yes,no,yes,yes,yes,no,yes,no,no,no,yes,,
+Female,67,3,retired,VIC,married,3.000,Q1,4.267,3.909,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,,
+Female,34,7,professional,WA,married,3.200,Q1,3.467,2.455,yes,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,55,1,Clerical or service worker,VIC,married,3.000,Q1,3.000,2.000,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,51,2,retired,QLD,separated or divorced,4.100,Q3,3.267,3.179,yes,no,no,yes,yes,no,yes,yes,yes,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,32,8,professional,VIC,single,3.600,Q2,3.333,2.733,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Female,36,7,,VIC,separated or divorced,3.433,Q2,3.467,2.655,yes,yes,no,no,yes,no,yes,no,yes,yes,no,no,yes,no,yes,no,no,no,yes,yes,,
+Female,34,2,manager or administrator,NSW,living with a partner,4.433,Q4,3.867,2.850,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Male,55,8,professional,SA,separated or divorced,3.000,Q1,4.467,2.464,yes,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,,
+Female,43,6,,VIC,separated or divorced,3.400,Q2,3.867,2.900,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,yes,,
+Male,47,7,professional,NSW,married,4.633,Q4,4.200,3.867,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,yes,yes,,
+Male,62,4,,Tas,married,3.067,Q1,3.200,2.625,yes,no,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,no,,
+Female,67,3,retired,QLD,separated or divorced,3.633,Q2,3.333,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,,
+Male,47,3,sales,VIC,separated or divorced,4.733,Q4,4.600,2.520,yes,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,,
+Male,26,8,Clerical or service worker,QLD,single,3.400,Q2,3.267,2.500,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,yes,no,,
+Male,45,7,small business owner,QLD,single,3.900,Q3,3.267,3.233,yes,yes,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,no,,
+Female,58,3,professional,NSW,separated or divorced,3.633,Q2,3.667,3.250,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,,
+Male,74,3,small business owner,VIC,married,3.433,Q2,3.733,3.067,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,no,yes,no,yes,yes,yes,,
+Male,60,2,retired,VIC,living with a partner,3.800,Q2,3.800,2.913,yes,no,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,no,no,no,no,no,yes,,
+Male,70,8,professional,VIC,married,3.967,Q3,4.867,2.633,yes,no,yes,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,,
+Male,60,2,manager or administrator,NSW,married,4.400,Q4,4.000,3.357,no,yes,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,yes,yes,yes,,
+Male,45,8,small business owner,QLD,married,4.133,Q3,4.400,4.053,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,yes,no,yes,no,yes,,
+Male,59,1,professional,WA,living with a partner,3.900,Q3,4.400,2.292,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,yes,no,no,,
+Male,59,2,manager or administrator,NSW,married,3.467,Q2,4.067,2.700,yes,no,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,,
+Female,43,1,home-duties,VIC,married,3.467,Q2,3.333,3.750,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,no,no,no,yes,yes,,
+Female,68,2,retired,VIC,living with a partner,5.000,Q4,3.600,4.767,yes,yes,yes,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,56,8,retired,VIC,separated or divorced,3.333,Q1,3.333,3.375,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,,
+Female,38,3,home-duties,NSW,married,3.600,Q2,3.400,2.167,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,57,4,manager or administrator,VIC,married,3.233,Q1,2.867,3.667,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,,
+Female,36,7,manager or administrator,ACT,married,2.567,Q1,3.400,2.227,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,no,no,no,yes,yes,yes,,
+Female,63,6,retired,NSW,married,4.300,Q4,2.933,3.692,yes,no,no,no,no,no,no,yes,yes,yes,no,no,no,yes,yes,yes,no,no,no,yes,,
+Female,30,8,manager or administrator,QLD,living with a partner,3.633,Q2,2.933,2.842,yes,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,68,7,manager or administrator,SA,married,4.067,Q3,3.267,2.200,yes,yes,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,,
+Female,52,7,professional,NSW,single,4.467,Q4,3.467,3.950,yes,no,yes,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,56,6,professional,NSW,separated or divorced,4.900,Q4,4.267,3.885,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,21,3,,NSW,living with a partner,3.333,Q1,3.933,2.360,yes,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,yes,no,yes,,
+Female,67,3,,QLD,married,3.367,Q1,3.333,2.138,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,no,yes,no,yes,,
+Female,19,1,unemployed,QLD,living with a partner,3.000,Q1,3.067,2.714,yes,no,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,31,7,sales,NSW,married,2.900,Q1,1.933,2.571,yes,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Female,45,6,home-duties,VIC,separated or divorced,4.533,Q4,4.133,3.409,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes,,
+Female,23,3,home-duties,NSW,living with a partner,4.367,Q4,3.200,3.619,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,yes,,
+Male,60,8,small business owner,NSW,married,4.167,Q3,3.933,3.080,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Male,62,2,small business owner,WA,married,3.800,Q2,3.467,3.300,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes,no,no,yes,,
+Male,19,3,sales,VIC,single,3.667,Q2,3.200,3.259,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,56,3,manager or administrator,NSW,separated or divorced,4.467,Q4,4.333,3.957,yes,yes,no,no,yes,no,no,no,yes,yes,no,no,no,yes,yes,no,yes,yes,no,yes,,
+Male,54,3,transport worker,NSW,married,4.567,Q4,4.400,4.077,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,yes,yes,no,no,yes,,
+Male,20,3,,NSW,single,4.033,Q3,3.067,4.300,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,,
+Male,41,8,professional,SA,married,3.433,Q2,3.067,2.440,yes,no,no,no,yes,no,no,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,35,1,,QLD,married,4.333,Q4,3.933,3.250,yes,no,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Female,57,6,manager or administrator,NSW,married,3.833,Q3,3.333,2.654,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Female,32,8,professional,VIC,single,4.200,Q3,4.333,3.417,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,yes,,
+Female,65,8,professional,NSW,separated or divorced,3.467,Q2,4.267,3.300,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,yes,,
+Female,39,6,Clerical or service worker,QLD,single,4.367,Q4,3.867,3.444,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,yes,no,yes,no,no,no,yes,yes,,
+Male,63,3,transport worker,QLD,married,3.000,Q1,3.600,3.000,yes,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,64,8,manager or administrator,VIC,widowed,3.933,Q3,4.733,3.750,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes,yes,no,no,no,yes,,
+Female,63,1,sales,QLD,married,3.600,Q2,3.333,2.458,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,36,3,manager or administrator,ACT,living with a partner,3.400,Q2,4.133,2.880,yes,yes,no,yes,no,no,yes,no,no,no,no,yes,yes,no,no,no,no,no,yes,no,,
+Female,42,6,,QLD,married,3.200,Q1,4.400,2.433,yes,no,no,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,41,3,small business owner,NSW,single,3.000,Q1,2.600,2.952,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,61,6,retired,NSW,separated or divorced,2.633,Q1,3.133,,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,yes,,
+Male,31,6,sales,NSW,single,4.033,Q3,3.733,3.433,no,no,no,no,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,,
+Male,45,7,professional,NSW,single,3.733,Q2,3.067,2.200,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,yes,yes,no,no,yes,yes,,
+Male,38,4,sales,NSW,married,2.167,Q1,2.533,2.172,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,25,7,small business owner,VIC,single,3.600,Q2,3.333,3.400,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,yes,,
+Female,26,2,sales,VIC,single,4.567,Q4,3.933,3.222,yes,no,no,yes,yes,no,yes,no,yes,no,no,no,no,no,no,no,yes,yes,yes,yes,,
+Male,22,3,manager or administrator,VIC,single,3.167,Q1,3.067,2.800,yes,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,,
+Female,67,1,retired,VIC,married,3.733,Q2,3.600,3.667,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,43,6,,NSW,separated or divorced,3.000,Q1,3.267,2.611,yes,yes,no,no,no,no,yes,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,,
+Female,56,4,professional,NSW,married,3.933,Q3,4.333,2.630,yes,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,,
+Female,31,4,sales,NSW,single,3.533,Q2,3.733,2.278,yes,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,yes,yes,,
+Male,50,6,manager or administrator,VIC,married,2.133,Q1,2.800,2.200,yes,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,,
+Male,20,7,unemployed,VIC,single,4.000,Q3,3.667,,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,55,3,sales,VIC,widowed,4.633,Q4,3.200,3.571,yes,yes,no,no,yes,no,yes,yes,yes,yes,yes,no,yes,yes,no,yes,no,yes,yes,yes,,
+Female,25,8,professional,NSW,married,4.433,Q4,4.333,3.455,yes,no,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,yes,yes,,
+Male,52,8,professional,NSW,married,3.200,Q1,3.067,2.481,yes,no,no,no,no,no,no,yes,no,yes,no,yes,yes,no,yes,no,no,yes,yes,yes,,
+Female,41,3,small business owner,NSW,separated or divorced,3.167,Q1,3.000,4.000,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,63,7,retired,QLD,living with a partner,4.567,Q4,4.733,3.429,yes,no,no,yes,yes,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,no,no,,
+Female,63,6,sales,NSW,separated or divorced,3.800,Q2,4.267,3.889,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,,
+Female,61,1,sales,ACT,married,3.900,Q3,4.067,3.350,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,yes,no,,
+Female,37,4,manager or administrator,QLD,married,2.933,Q1,3.000,2.240,no,no,no,yes,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,,
+Male,38,3,tradesperson,NSW,living with a partner,3.500,Q2,2.867,3.400,yes,no,no,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,yes,yes,,
+Female,32,8,professional,WA,single,3.633,Q2,4.333,2.542,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,,
+Male,33,3,manager or administrator,QLD,married,4.433,Q4,3.733,3.889,yes,no,yes,yes,yes,no,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,yes,,
+Female,57,2,retired,NSW,married,3.767,Q2,3.600,3.464,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,68,2,retired,QLD,married,4.233,Q4,3.867,3.192,yes,no,no,no,yes,no,no,yes,yes,no,no,no,yes,yes,no,yes,no,yes,no,yes,,
+Male,53,2,professional,NSW,living with a partner,2.533,Q1,4.467,2.793,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,48,6,manager or administrator,VIC,married,3.067,Q1,3.200,2.269,no,no,no,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,23,7,unemployed,VIC,single,3.533,Q2,3.200,2.607,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,26,3,sales,SA,single,3.500,Q2,3.333,2.536,yes,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,no,no,no,no,no,,
+Male,35,3,manager or administrator,NSW,separated or divorced,3.633,Q2,4.133,2.720,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,50,6,manager or administrator,ACT,married,3.633,Q2,4.467,2.846,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,no,yes,yes,,
+Female,37,2,home-duties,SA,married,4.133,Q3,4.200,4.000,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Female,44,6,,WA,married,4.333,Q4,4.800,4.900,yes,yes,no,no,yes,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,,
+Male,39,4,professional,QLD,living with a partner,4.000,Q3,2.333,2.400,yes,no,no,no,yes,no,yes,no,no,yes,no,no,no,yes,no,yes,no,yes,no,yes,,
+Male,31,8,transport worker,VIC,married,4.067,Q3,3.933,3.133,yes,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,39,4,transport worker,QLD,married,3.367,Q1,3.733,3.000,yes,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,56,7,manager or administrator,VIC,living with a partner,3.467,Q2,4.000,3.417,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,29,8,professional,VIC,married,3.300,Q1,4.400,2.409,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,no,no,no,yes,no,yes,,
+Male,55,6,manager or administrator,SA,married,1.767,Q1,2.933,3.500,yes,yes,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,yes,,
+Female,55,2,Clerical or service worker,WA,single,4.000,Q3,3.933,3.769,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,,
+Male,63,4,retired,VIC,married,3.333,Q1,3.267,2.321,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,yes,no,yes,,
+Female,57,2,retired,SA,married,3.800,Q2,4.333,2.842,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,,
+Female,49,3,labourer,NSW,separated or divorced,3.200,Q1,3.533,2.500,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,65,6,Clerical or service worker,QLD,married,3.467,Q2,3.800,2.529,yes,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,yes,,
+Female,49,4,professional,NSW,married,3.867,Q3,4.000,2.400,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,yes,yes,no,no,no,no,yes,yes,,
+Female,44,2,Clerical or service worker,QLD,married,4.500,Q4,4.333,2.750,yes,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,,
+Female,41,3,,NSW,separated or divorced,4.100,Q3,3.600,3.083,yes,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes,,
+Female,32,6,manager or administrator,VIC,single,3.867,Q3,4.400,2.850,yes,no,no,no,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,32,6,,NSW,married,3.867,Q3,4.333,3.067,yes,no,no,no,no,no,yes,yes,no,no,yes,yes,yes,yes,yes,no,no,no,no,no,,
+Male,19,7,unemployed,NSW,single,2.100,Q1,3.800,2.000,yes,yes,no,no,yes,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,no,yes,,
+Female,31,3,professional,VIC,single,3.733,Q2,3.867,3.643,yes,no,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,yes,yes,,
+Male,51,3,sales,WA,married,2.200,Q1,2.400,2.310,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,yes,no,yes,yes,,
+Female,48,7,small business owner,NSW,married,3.900,Q3,3.800,2.481,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,no,no,no,yes,no,no,yes,,
+Male,36,7,professional,VIC,single,3.567,Q2,4.000,2.633,yes,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,yes,yes,no,yes,no,yes,,
+Female,51,2,manager or administrator,QLD,married,3.833,Q3,3.333,4.077,yes,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Male,38,1,manager or administrator,QLD,married,4.467,Q4,3.733,3.633,yes,no,yes,yes,yes,no,yes,yes,no,yes,no,no,no,yes,no,yes,yes,yes,no,no,,
+Male,30,6,unemployed,QLD,married,3.400,Q2,4.333,2.857,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,no,no,yes,yes,yes,no,yes,,
+Female,56,3,sales,VIC,separated or divorced,4.200,Q3,4.667,4.042,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,20,7,sales,SA,single,4.033,Q3,3.667,2.522,yes,no,no,yes,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,yes,no,no,yes,,
+Female,43,1,Clerical or service worker,QLD,single,3.233,Q1,4.400,,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,yes,no,yes,yes,,
+Male,30,3,manager or administrator,VIC,single,3.400,Q2,3.600,2.192,yes,yes,no,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,no,yes,no,no,no,yes,,
+Female,30,7,Clerical or service worker,VIC,living with a partner,3.600,Q2,3.067,3.400,no,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,no,no,no,,
+Female,29,6,Clerical or service worker,VIC,living with a partner,4.033,Q3,4.667,3.074,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,48,6,small business owner,QLD,separated or divorced,3.233,Q1,3.533,3.167,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes,,
+Female,61,1,manager or administrator,VIC,separated or divorced,4.300,Q4,4.133,,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,32,2,labourer,QLD,living with a partner,3.700,Q2,3.667,2.500,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,57,1,,VIC,single,3.933,Q3,3.733,2.880,yes,no,no,yes,yes,yes,yes,yes,no,no,no,no,yes,no,yes,yes,no,no,yes,yes,,
+Male,45,6,Clerical or service worker,SA,married,3.467,Q2,3.067,2.667,yes,yes,no,no,yes,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,62,2,retired,VIC,single,4.867,Q4,3.067,3.900,yes,yes,yes,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,
+Female,34,7,small business owner,NSW,single,3.567,Q2,3.067,2.750,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,yes,no,no,no,yes,yes,,
+Female,48,2,Clerical or service worker,NSW,married,4.300,Q4,3.067,3.533,yes,yes,no,no,yes,no,no,no,no,no,yes,no,yes,no,no,no,yes,yes,no,yes,,
+Male,61,1,Clerical or service worker,VIC,married,3.167,Q1,3.267,2.633,yes,no,no,no,no,no,no,yes,no,yes,no,yes,no,no,no,no,yes,no,no,yes,,
+Male,28,3,professional,VIC,married,3.400,Q2,3.933,2.400,yes,yes,no,no,yes,no,no,no,no,yes,no,yes,yes,no,no,yes,no,no,yes,no,,
+Female,25,7,,VIC,single,4.233,Q4,4.000,3.688,yes,yes,no,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,33,1,sales,VIC,living with a partner,3.600,Q2,3.467,2.583,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no,no,no,no,no,yes,,
+Male,25,8,professional,VIC,married,3.767,Q2,4.000,2.440,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,72,6,,SA,married,4.333,Q4,4.133,2.808,yes,no,no,yes,no,no,yes,no,yes,yes,no,no,no,yes,no,yes,no,yes,yes,yes,,
+Male,31,6,tradesperson,QLD,married,3.433,Q2,3.800,2.769,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,no,no,yes,no,yes,no,no,yes,,
+Male,40,6,tradesperson,NSW,single,3.833,Q3,3.667,2.481,yes,no,yes,no,yes,no,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no,yes,,
+Female,65,2,retired,VIC,separated or divorced,4.633,Q4,4.267,3.833,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,no,no,,
+Male,68,3,retired,NSW,married,4.133,Q3,3.267,3.500,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,yes,,
+Female,74,7,manager or administrator,ACT,widowed,3.633,Q2,3.333,3.308,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,no,no,yes,no,no,no,yes,,
+Male,60,8,professional,QLD,married,3.867,Q3,4.733,3.533,no,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Female,35,4,Clerical or service worker,NSW,married,3.233,Q1,3.267,,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,60,6,transport worker,NSW,separated or divorced,3.700,Q2,3.533,2.207,yes,yes,yes,yes,yes,no,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,,
+Male,40,8,professional,NSW,single,3.200,Q1,2.667,2.692,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,63,4,home-duties,WA,married,3.967,Q3,4.600,3.227,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,yes,yes,no,yes,no,yes,,
+Male,60,6,retired,NSW,married,3.233,Q1,3.533,2.833,yes,no,no,yes,yes,no,yes,no,no,yes,no,no,no,yes,no,no,no,yes,yes,no,,
+Female,35,1,professional,WA,living with a partner,3.133,Q1,3.867,2.636,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,,
+Male,57,4,small business owner,QLD,living with a partner,3.167,Q1,3.200,1.962,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,no,no,yes,yes,yes,,
+Female,29,7,unemployed,NSW,married,3.567,Q2,3.067,2.741,yes,no,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,,
+Female,22,7,,NSW,single,2.933,Q1,3.467,2.240,yes,no,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,yes,yes,,
+Male,25,8,manager or administrator,VIC,married,3.533,Q2,2.800,3.400,no,no,yes,yes,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,yes,no,yes,no,,
+Female,42,1,professional,WA,living with a partner,3.167,Q1,3.333,3.000,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Male,19,3,professional,NSW,single,3.300,Q1,3.467,3.800,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,46,7,tradesperson,VIC,separated or divorced,3.700,Q2,3.533,3.071,yes,no,no,yes,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,no,yes,no,yes,yes,,
+Male,61,6,professional,VIC,married,3.867,Q3,2.333,2.800,yes,no,no,no,yes,no,no,yes,no,yes,yes,no,yes,no,no,no,no,no,no,yes,,
+Male,22,7,Clerical or service worker,NSW,single,3.867,Q3,4.000,3.955,yes,no,yes,yes,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no,yes,yes,yes,,
+Female,42,8,professional,VIC,single,3.567,Q2,3.933,3.556,yes,yes,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,yes,no,yes,no,yes,,
+Female,22,7,,VIC,single,4.167,Q3,3.533,3.233,yes,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,yes,,
+Female,23,4,,ACT,living with a partner,4.533,Q4,3.867,3.367,yes,yes,no,yes,yes,no,yes,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,,
+Female,60,1,home-duties,WA,married,4.200,Q3,3.200,4.455,yes,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,no,no,no,no,no,yes,,
+Male,53,7,small business owner,VIC,separated or divorced,4.333,Q4,4.467,3.429,yes,no,no,no,yes,yes,yes,yes,yes,yes,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,44,2,professional,VIC,single,4.633,Q4,4.400,3.000,yes,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,no,yes,yes,yes,,
+Male,56,8,professional,VIC,separated or divorced,3.800,Q2,3.267,3.478,yes,no,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,no,yes,no,yes,yes,,
+Female,45,4,manager or administrator,NSW,single,4.267,Q4,4.400,3.133,yes,no,no,yes,yes,yes,no,yes,yes,yes,no,no,yes,yes,yes,yes,no,no,no,yes,,
+Male,63,8,retired,SA,married,3.500,Q2,3.600,2.650,no,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,yes,no,no,no,no,yes,,
+Female,55,1,sales,QLD,widowed,3.933,Q3,4.467,3.769,yes,yes,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,,
+Male,24,6,tradesperson,Tas,living with a partner,3.567,Q2,3.267,2.400,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,no,no,yes,,
+Male,31,3,transport worker,QLD,living with a partner,5.000,Q4,3.267,3.833,yes,no,yes,yes,yes,no,yes,yes,no,yes,yes,no,yes,no,no,no,no,no,no,no,,
+Male,47,6,manager or administrator,NSW,separated or divorced,3.867,Q3,3.933,3.556,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Female,63,8,professional,QLD,separated or divorced,4.300,Q4,4.333,3.348,yes,no,no,no,no,yes,no,yes,no,no,no,no,yes,yes,no,yes,no,no,no,yes,,
+Female,38,3,Clerical or service worker,VIC,married,2.500,Q1,3.867,2.500,yes,no,no,no,yes,no,yes,yes,no,yes,no,no,yes,no,yes,yes,no,yes,no,yes,,
+Female,34,7,professional,NSW,married,4.067,Q3,3.733,3.107,yes,no,no,yes,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,yes,,
+Male,57,8,manager or administrator,VIC,married,4.667,Q4,4.867,4.615,yes,no,no,no,no,no,no,yes,no,yes,no,no,yes,yes,no,yes,no,yes,yes,no,,
+Female,27,7,manager or administrator,QLD,single,4.100,Q3,3.733,3.000,yes,no,no,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes,no,no,no,no,yes,yes,,
+Male,39,2,labourer,Tas,married,4.633,Q4,4.067,4.133,yes,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,61,3,manager or administrator,NSW,living with a partner,3.933,Q3,3.933,2.950,yes,no,no,no,yes,no,no,yes,no,yes,no,no,yes,no,yes,no,no,no,no,yes,,
+Male,28,7,professional,QLD,living with a partner,4.133,Q3,3.600,3.033,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,,
+Female,49,8,professional,NSW,married,3.767,Q2,3.800,2.621,yes,no,yes,yes,no,no,yes,yes,no,yes,no,no,no,yes,no,yes,no,no,no,no,,
+Female,52,3,professional,NSW,married,3.533,Q2,4.400,2.828,yes,yes,no,no,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,,
+Male,41,8,professional,QLD,married,4.267,Q4,3.000,1.867,yes,no,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,,
+Female,38,6,home-duties,NSW,married,1.667,Q1,2.267,1.600,yes,no,no,no,yes,no,no,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes,,
+Male,40,8,professional,ACT,separated or divorced,3.267,Q1,3.600,1.944,yes,no,no,yes,no,no,yes,no,no,yes,no,no,yes,no,no,no,no,no,yes,yes,,
+Female,62,1,labourer,NSW,married,4.400,Q4,3.600,3.148,yes,no,no,no,no,no,yes,no,no,no,yes,yes,yes,no,no,no,no,no,no,yes,,
+Female,24,7,,VIC,single,3.900,Q3,3.067,3.200,yes,no,no,no,yes,no,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,,
+Male,28,7,manager or administrator,NSW,married,1.533,Q1,2.267,1.393,yes,yes,no,no,no,no,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes,,
+Female,36,7,professional,NSW,married,3.600,Q2,4.067,4.222,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,36,3,home-duties,WA,married,3.300,Q1,4.000,2.727,yes,no,no,no,yes,no,yes,yes,yes,yes,no,no,yes,no,no,yes,yes,no,no,yes,,
+Male,30,7,labourer,VIC,married,3.967,Q3,3.933,2.217,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes,yes,yes,no,yes,no,no,yes,no,yes,,
+Male,56,3,professional,WA,married,3.600,Q2,3.933,3.714,yes,no,no,no,no,no,yes,no,no,yes,yes,no,yes,no,no,no,no,no,yes,yes,,
+Female,61,4,professional,NSW,living with a partner,4.000,Q3,3.600,3.333,yes,no,no,no,no,no,no,yes,no,no,no,no,yes,no,no,yes,no,yes,yes,yes,,
+Female,47,4,Clerical or service worker,SA,married,3.900,Q3,2.800,3.313,yes,yes,no,yes,no,no,yes,yes,yes,yes,no,yes,no,no,no,no,yes,no,no,no,,
+Female,56,3,small business owner,QLD,married,4.167,Q3,4.400,3.621,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,,
+Female,29,7,Clerical or service worker,VIC,living with a partner,2.133,Q1,3.400,2.333,yes,no,no,no,yes,no,yes,no,no,no,no,yes,no,no,no,no,no,no,no,no,,
+Male,18,1,unemployed,VIC,single,3.167,Q1,4.333,3.933,no,yes,yes,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,32,7,professional,SA,single,4.600,Q4,4.667,4.233,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,,
+Female,35,3,home-duties,NSW,married,3.367,Q1,4.000,2.036,yes,no,yes,no,no,no,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,no,no,yes,,
+Female,24,2,Clerical or service worker,VIC,single,4.200,Q3,3.267,3.190,yes,no,no,yes,no,no,yes,no,no,no,no,no,no,no,yes,no,no,yes,yes,yes,,
+Male,30,7,professional,VIC,married,3.733,Q2,2.933,2.893,yes,no,no,no,yes,no,yes,yes,no,yes,yes,no,no,no,no,no,no,no,yes,yes,,
+Female,63,4,,VIC,separated or divorced,3.067,Q1,3.933,2.267,yes,yes,no,no,no,no,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,26,4,home-duties,Tas,,4.200,Q3,4.533,3.667,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,62,7,Clerical or service worker,NSW,married,3.967,Q3,4.600,3.647,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,,
+Male,69,3,manager or administrator,NSW,married,3.733,Q2,4.333,2.600,yes,no,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,no,yes,no,,
+Male,40,3,professional,WA,living with a partner,4.167,Q3,3.800,2.900,yes,no,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,55,,retired,WA,separated or divorced,3.867,Q3,3.133,3.567,yes,yes,no,no,yes,yes,yes,yes,no,yes,yes,no,no,no,no,no,no,yes,no,no,,
+Male,60,1,small business owner,SA,married,4.400,Q4,3.667,3.033,yes,no,no,no,yes,yes,no,no,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,,
+Male,65,3,professional,NSW,living with a partner,3.567,Q2,3.933,2.567,yes,yes,yes,no,yes,no,yes,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,,
+Male,51,3,manager or administrator,VIC,separated or divorced,2.367,Q1,3.400,2.565,yes,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,yes,no,yes,no,no,yes,yes,,
+Male,58,4,small business owner,WA,living with a partner,4.400,Q4,3.867,3.500,yes,no,no,no,yes,no,yes,no,yes,yes,no,no,yes,yes,no,yes,no,yes,yes,no,,
+Male,41,8,professional,QLD,married,3.867,Q3,3.400,2.556,yes,no,no,no,yes,no,no,yes,no,yes,no,no,no,no,no,no,no,no,no,yes,,
+Female,42,3,professional,VIC,living with a partner,4.000,Q3,3.133,4.700,yes,yes,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,,
+Female,32,6,manager or administrator,WA,living with a partner,2.333,Q1,3.600,2.727,yes,yes,yes,no,no,no,no,yes,yes,no,no,no,yes,no,no,no,no,no,no,yes,,
