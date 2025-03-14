@@ -1,4 +1,4 @@
-## Data Analytics on Vacation Data 🌍
+## Data Analytics on Vacation Data
 
 ### Overview  
 This project analyzes vacation behavior based on demographic, financial, and preference-related factors. It explores how individuals plan and spend on vacations, uncovering trends in travel choices, spending habits, and preferences.
